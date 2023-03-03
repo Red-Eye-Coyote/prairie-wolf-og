@@ -1,0 +1,8 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "red_eye_coyote",
+    "system_utils",
+    "core/color"
+  ]
+}
