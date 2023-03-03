@@ -26,8 +26,10 @@
     "comp/select",
     "comp/tag",
     "comp/text",
+    "portfolio/light",
+    "portfolio/dark",
     "red_eye_coyote/light",
-    "system_utils",
-    "red_eye_coyote/dark"
+    "red_eye_coyote/dark",
+    "system_utils"
   ]
 }

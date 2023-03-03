@@ -27,7 +27,9 @@
       "comp/select": "enabled",
       "comp/tag": "enabled",
       "comp/text": "enabled",
-      "semantic/light": "source"
+      "semantic/light": "source",
+      "portfolio/light": "disabled",
+      "portfolio/dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -59,7 +61,9 @@
       "comp/option": "enabled",
       "comp/select": "enabled",
       "comp/tag": "enabled",
-      "comp/text": "enabled"
+      "comp/text": "enabled",
+      "portfolio/light": "disabled",
+      "portfolio/dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -92,7 +96,9 @@
       "comp/select": "enabled",
       "comp/tag": "enabled",
       "comp/text": "enabled",
-      "red_eye_coyote/light": "enabled"
+      "red_eye_coyote/light": "enabled",
+      "portfolio/light": "disabled",
+      "portfolio/dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -125,7 +131,75 @@
       "comp/select": "enabled",
       "comp/tag": "enabled",
       "comp/text": "enabled",
-      "red_eye_coyote/dark": "enabled"
+      "red_eye_coyote/dark": "enabled",
+      "portfolio/light": "disabled",
+      "portfolio/dark": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "50e0d2d4c04f7ffc8be7651a307fa391ddc4c046",
+    "name": "Portfoio - Light",
+    "selectedTokenSets": {
+      "core/color": "source",
+      "core/border": "source",
+      "core/dimension": "source",
+      "core/font-family": "source",
+      "core/font-nRatio": "source",
+      "core/font-scale": "source",
+      "core/font-size": "source",
+      "core/font-weight": "source",
+      "core/letter-spacing": "source",
+      "core/line-height": "source",
+      "core/paragraph-spacing": "source",
+      "core/text-case": "source",
+      "semantic/light": "source",
+      "comp/button": "enabled",
+      "comp/alert": "enabled",
+      "comp/badge": "enabled",
+      "comp/cell": "enabled",
+      "comp/icon-button": "enabled",
+      "comp/input": "enabled",
+      "comp/link": "enabled",
+      "comp/multiselect": "enabled",
+      "comp/option": "enabled",
+      "comp/select": "enabled",
+      "comp/tag": "enabled",
+      "comp/text": "enabled",
+      "portfolio/light": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "961bf6f5b4a05cc2ef33be255372ae34fee5c379",
+    "name": "Portfolio - Dark",
+    "selectedTokenSets": {
+      "core/color": "source",
+      "core/border": "source",
+      "core/dimension": "source",
+      "core/font-family": "source",
+      "core/font-nRatio": "source",
+      "core/font-scale": "source",
+      "core/font-size": "source",
+      "core/font-weight": "source",
+      "core/letter-spacing": "source",
+      "core/line-height": "source",
+      "core/paragraph-spacing": "source",
+      "core/text-case": "source",
+      "semantic/dark": "source",
+      "comp/button": "enabled",
+      "comp/alert": "enabled",
+      "comp/badge": "enabled",
+      "comp/cell": "enabled",
+      "comp/icon-button": "enabled",
+      "comp/input": "enabled",
+      "comp/link": "enabled",
+      "comp/multiselect": "enabled",
+      "comp/option": "enabled",
+      "comp/select": "enabled",
+      "comp/tag": "enabled",
+      "comp/text": "enabled",
+      "portfolio/dark": "enabled"
     },
     "$figmaStyleReferences": {}
   }
