@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "id": "c2affdee3d0fd46edb6d9cfc9da1bd49a7016818",
+    "name": "Headless - Light",
+    "selectedTokenSets": {
+      "core/color": "source",
+      "core/border": "source",
+      "core/dimension": "source",
+      "core/font-family": "source",
+      "core/font-nRatio": "source",
+      "core/font-scale": "source",
+      "core/font-size": "source",
+      "core/font-weight": "source",
+      "core/letter-spacing": "source",
+      "core/line-height": "source",
+      "core/paragraph-spacing": "source",
+      "core/text-case": "source",
+      "comp/button": "enabled",
+      "comp/alert": "enabled",
+      "comp/badge": "enabled",
+      "comp/cell": "enabled",
+      "comp/icon-button": "enabled",
+      "comp/input": "enabled",
+      "comp/link": "enabled",
+      "comp/multiselect": "enabled",
+      "comp/option": "enabled",
+      "comp/select": "enabled",
+      "comp/tag": "enabled",
+      "comp/text": "enabled",
+      "semantic/light": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "2d271c89f795f5c2bb050a83fb05c52a1b727dc5",
+    "name": "Headless - Dark",
+    "selectedTokenSets": {
+      "core/color": "source",
+      "core/border": "source",
+      "core/dimension": "source",
+      "core/font-family": "source",
+      "core/font-nRatio": "source",
+      "core/font-scale": "source",
+      "core/font-size": "source",
+      "core/font-weight": "source",
+      "core/letter-spacing": "source",
+      "core/line-height": "source",
+      "core/paragraph-spacing": "source",
+      "core/text-case": "source",
+      "semantic/dark": "source",
+      "comp/button": "enabled",
+      "comp/alert": "enabled",
+      "comp/badge": "enabled",
+      "comp/cell": "enabled",
+      "comp/icon-button": "enabled",
+      "comp/input": "enabled",
+      "comp/link": "enabled",
+      "comp/multiselect": "enabled",
+      "comp/option": "enabled",
+      "comp/select": "enabled",
+      "comp/tag": "enabled",
+      "comp/text": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

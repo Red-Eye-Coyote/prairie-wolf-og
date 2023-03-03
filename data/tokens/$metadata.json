@@ -1,11 +1,6 @@
 {
   "tokenSetOrder": [
     "core/color",
-    "comp/button",
-    "semantic/light",
-    "semantic/dark",
-    "REC - Light",
-    "system_utils",
     "core/border",
     "core/dimension",
     "core/font-family",
@@ -17,6 +12,9 @@
     "core/line-height",
     "core/paragraph-spacing",
     "core/text-case",
+    "semantic/light",
+    "semantic/dark",
+    "comp/button",
     "comp/alert",
     "comp/badge",
     "comp/cell",
@@ -27,6 +25,9 @@
     "comp/option",
     "comp/select",
     "comp/tag",
-    "comp/text"
+    "comp/text",
+    "red_eye_coyote/light",
+    "system_utils",
+    "red_eye_coyote/dark"
   ]
 }
