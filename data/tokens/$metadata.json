@@ -1,6 +1,5 @@
 {
   "tokenSetOrder": [
-    "core",
     "core/color",
     "comp/button",
     "semantic/light",
