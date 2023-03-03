@@ -27,9 +27,7 @@
       "comp/select": "enabled",
       "comp/tag": "enabled",
       "comp/text": "enabled",
-      "semantic/light": "source",
-      "portfolio/light": "disabled",
-      "portfolio/dark": "disabled"
+      "semantic/light": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -61,9 +59,7 @@
       "comp/option": "enabled",
       "comp/select": "enabled",
       "comp/tag": "enabled",
-      "comp/text": "enabled",
-      "portfolio/light": "disabled",
-      "portfolio/dark": "disabled"
+      "comp/text": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -96,9 +92,7 @@
       "comp/select": "enabled",
       "comp/tag": "enabled",
       "comp/text": "enabled",
-      "red_eye_coyote/light": "enabled",
-      "portfolio/light": "disabled",
-      "portfolio/dark": "disabled"
+      "red_eye_coyote/light": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -131,9 +125,7 @@
       "comp/select": "enabled",
       "comp/tag": "enabled",
       "comp/text": "enabled",
-      "red_eye_coyote/dark": "enabled",
-      "portfolio/light": "disabled",
-      "portfolio/dark": "disabled"
+      "red_eye_coyote/dark": "enabled"
     },
     "$figmaStyleReferences": {}
   },
