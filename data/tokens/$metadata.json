@@ -1,8 +1,11 @@
 {
   "tokenSetOrder": [
     "core",
+    "core/color",
+    "comp/button",
+    "semantic/light",
+    "semantic/dark",
     "REC - Light",
-    "system_utils",
-    "core/color"
+    "system_utils"
   ]
 }
