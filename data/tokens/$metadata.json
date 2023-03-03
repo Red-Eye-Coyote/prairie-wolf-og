@@ -17,6 +17,17 @@
     "core/letter-spacing",
     "core/line-height",
     "core/paragraph-spacing",
-    "core/text-case"
+    "core/text-case",
+    "comp/alert",
+    "comp/badge",
+    "comp/cell",
+    "comp/icon-button",
+    "comp/input",
+    "comp/link",
+    "comp/multiselect",
+    "comp/option",
+    "comp/select",
+    "comp/tag",
+    "comp/text"
   ]
 }
