@@ -194,11 +194,11 @@
       "quiet": {
         "default": {
           "bg-color": {
-            "value": "{semantic.color.actions.secondary.bg-color.quiet}",
+            "value": "{icon-btn.secondary.default.bg-color}",
             "type": "color"
           },
           "border-color": {
-            "value": "{semantic.color.actions.secondary.border-color.quiet}",
+            "value": "{icon-btn.secondary.default.border-color}",
             "type": "color"
           },
           "icon-color": {
@@ -208,7 +208,7 @@
         },
         "hover": {
           "bg-color": {
-            "value": "{semantic.color.actions.secondary.bg-color.quiet}",
+            "value": "{icon-btn.secondary.hover.bg-color}",
             "type": "color"
           },
           "border-color": {
