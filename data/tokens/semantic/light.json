@@ -334,69 +334,25 @@
         }
       }
     },
-    "fg": {
-      "default": {
-        "value": "{color.neutrals.black}",
-        "type": "color"
-      },
-      "muted": {
-        "value": "{color.grey.700}",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "{color.grey.500}",
-        "type": "color"
-      },
-      "accent": {
-        "value": "{semantic.primary.default}",
-        "type": "color"
-      },
-      "on-strong": {
-        "value": "{color.neutrals.white}",
-        "type": "color"
-      }
-    },
-    "bg": {
-      "surface": {
-        "value": "{color.neutrals.white}",
-        "type": "color"
-      },
-      "muted": {
-        "value": "{color.grey.500}",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "{color.grey.400}",
-        "type": "color"
-      },
-      "canvas": {
-        "value": "{color.grey.100}",
-        "type": "color"
-      },
-      "strong": {
-        "value": "{color.neutrals.black}",
-        "type": "color"
-      }
-    },
     "primary": {
       "default": {
-        "value": "{color.teal.400}",
+        "value": "{color.red.400}",
         "type": "color"
       },
       "emphasized": {
-        "value": "{color.teal.500}",
+        "value": "{color.red.500}",
         "type": "color"
       },
       "strong": {
-        "value": "{color.teal.600}",
+        "value": "{color.red.600}",
         "type": "color"
       },
       "muted": {
-        "value": "{color.teal.200}",
+        "value": "{color.red.200}",
         "type": "color"
       },
       "subtle": {
-        "value": "{color.teal.100}",
+        "value": "{color.red.100}",
         "type": "color"
       },
       "on-primary": {
@@ -406,23 +362,23 @@
     },
     "secondary": {
       "default": {
-        "value": "{color.grey.400}",
+        "value": "{color.deepSkyBlue.400}",
         "type": "color"
       },
       "emphasized": {
-        "value": "{color.grey.500}",
+        "value": "{color.deepSkyBlue.500}",
         "type": "color"
       },
       "strong": {
-        "value": "{color.grey.600}",
+        "value": "{color.deepSkyBlue.600}",
         "type": "color"
       },
       "muted": {
-        "value": "{color.grey.200}",
+        "value": "{color.deepSkyBlue.200}",
         "type": "color"
       },
       "subtle": {
-        "value": "{color.grey.100}",
+        "value": "{color.deepSkyBlue.100}",
         "type": "color"
       },
       "on-secondary": {
@@ -520,7 +476,7 @@
     },
     "neutral": {
       "default": {
-        "value": "{color.grey.700}",
+        "value": "{color.ultimateGray.700}",
         "type": "color"
       },
       "emphasized": {
@@ -532,15 +488,59 @@
         "type": "color"
       },
       "muted": {
-        "value": "{color.grey.500}",
+        "value": "{color.ultimateGray.500}",
         "type": "color"
       },
       "subtle": {
-        "value": "{color.grey.400}",
+        "value": "{color.ultimateGray.400}",
         "type": "color"
       },
       "on-neutral": {
         "value": "{color.neutrals.white}",
+        "type": "color"
+      }
+    },
+    "fg": {
+      "default": {
+        "value": "{color.neutrals.black}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.ultimateGray.700}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.ultimateGray.500}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{semantic.primary.default}",
+        "type": "color"
+      },
+      "on-strong": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "surface": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.ultimateGray.500}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.ultimateGray.400}",
+        "type": "color"
+      },
+      "canvas": {
+        "value": "{color.ultimateGray.100}",
+        "type": "color"
+      },
+      "strong": {
+        "value": "{color.neutrals.black}",
         "type": "color"
       }
     },

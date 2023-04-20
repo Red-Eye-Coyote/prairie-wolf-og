@@ -1,6 +1,6 @@
 {
   "color": {
-    "ultimate_gray": {
+    "ultimateGray": {
       "base": {
         "value": "#939597",
         "type": "color",
@@ -83,7 +83,7 @@
         "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 11.9:1 against background #ffffff"
       }
     },
-    "deep_sky_blue": {
+    "deepSkyBlue": {
       "base": {
         "value": "#05AFF2",
         "type": "color"
