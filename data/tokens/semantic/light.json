@@ -1372,56 +1372,6 @@
           "value": "{semantic.primary.default}",
           "type": "color"
         }
-      },
-      "tables": {
-        "bg-color": {
-          "default": {
-            "value": "{color.neutrals.white}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{color.grey.100}",
-            "type": "color"
-          },
-          "emphasized": {
-            "value": "{semantic.primary.subtle}",
-            "type": "color"
-          },
-          "strong": {
-            "value": "{semantic.primary.muted}",
-            "type": "color"
-          }
-        },
-        "text-color": {
-          "default": {
-            "value": "{semantic.neutral.default}",
-            "type": "color"
-          }
-        },
-        "icon-color": {
-          "default": {
-            "value": "{semantic.neutral.default}",
-            "type": "color"
-          }
-        },
-        "border-color": {
-          "default": {
-            "value": "{semantic.neutral.subtle}",
-            "type": "color"
-          },
-          "accent": {
-            "value": "{semantic.primary.default}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{semantic.primary.emphasized}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{semantic.primary.strong}",
-            "type": "color"
-          }
-        }
       }
     },
     "border-radius": {
