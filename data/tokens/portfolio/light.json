@@ -25,6 +25,32 @@
         "value": "{color.neutrals.white}",
         "type": "color"
       }
+    },
+    "secondary": {
+      "default": {
+        "value": "{color.ultimateGray.400}",
+        "type": "color"
+      },
+      "emphasized": {
+        "value": "{color.ultimateGray.500}",
+        "type": "color"
+      },
+      "strong": {
+        "value": "{color.ultimateGray.600}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.ultimateGray.200}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.ultimateGray.100}",
+        "type": "color"
+      },
+      "on-secondary": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      }
     }
   }
 }
