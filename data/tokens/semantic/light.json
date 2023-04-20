@@ -793,7 +793,7 @@
               }
             },
             "text-color": {
-              "value": "{semantic.secondary.on-primary}",
+              "value": "{semantic.secondary.on-secondary}",
               "type": "color"
             },
             "text-color-quiet": {
@@ -801,7 +801,7 @@
               "type": "color"
             },
             "icon-color": {
-              "value": "{semantic.secondary.on-primary}",
+              "value": "{semantic.secondary.on-secondary}",
               "type": "color"
             },
             "icon-color-quiet": {
@@ -845,7 +845,7 @@
               }
             },
             "text-color": {
-              "value": "{semantic.secondary.on-primary}",
+              "value": "{semantic.secondary.on-secondary}",
               "type": "color"
             },
             "text-color-quiet": {
@@ -853,7 +853,7 @@
               "type": "color"
             },
             "icon-color": {
-              "value": "{semantic.secondary.on-primary}",
+              "value": "{semantic.secondary.on-secondary}",
               "type": "color"
             },
             "icon-color-quiet": {
@@ -897,7 +897,7 @@
               }
             },
             "text-color": {
-              "value": "{semantic.secondary.on-primary}",
+              "value": "{semantic.secondary.on-secondary}",
               "type": "color"
             },
             "text-color-quiet": {
@@ -905,7 +905,7 @@
               "type": "color"
             },
             "icon-color": {
-              "value": "{semantic.secondary.on-primary}",
+              "value": "{semantic.secondary.on-secondary}",
               "type": "color"
             },
             "icon-color-quiet": {
@@ -949,7 +949,7 @@
               }
             },
             "text-color": {
-              "value": "{semantic.secondary.on-primary}",
+              "value": "{semantic.secondary.on-secondary}",
               "type": "color"
             },
             "text-color-quiet": {
@@ -957,7 +957,7 @@
               "type": "color"
             },
             "icon-color": {
-              "value": "{semantic.secondary.on-primary}",
+              "value": "{semantic.secondary.on-secondary}",
               "type": "color"
             },
             "icon-color-quiet": {
