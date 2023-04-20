@@ -1,121 +1,55 @@
 {
-  "color": {
-    "text": {
-      "prominentText": {
-        "light": {
-          "value": "{color._base.brand1.700}",
-          "type": "color",
-          "description": "Description of use cases for standard.prominentText.light"
-        },
-        "dark": {
-          "value": "{color._base.brand1.200}",
-          "type": "color",
-          "description": "Description of use cases for standard.prominentText.dark"
-        }
-      },
-      "coreText": {
-        "light": {
-          "value": "{color._base.brand1.600}",
-          "type": "color",
-          "description": "Description of use cases for standard.coreText.light"
-        },
-        "dark": {
-          "value": "{color._base.brand1.100}",
-          "type": "color",
-          "description": "Description of use cases for standard.coreText.dark"
-        }
-      },
-      "deemphasizedText": {
-        "value": "{color._base.brand1.200}",
-        "type": "color",
-        "description": "Description of use cases for standard.deemphasizedText"
-      },
-      "black": {
-        "value": "{color._base.black}",
+  "semantic": {
+    "primary": {
+      "default": {
+        "value": "{color.red.400}",
         "type": "color"
       },
-      "white": {
-        "value": "{color._base.white}",
-        "type": "color"
-      }
-    },
-    "bg": {
-      "white": {
-        "value": "#FFFFFF",
-        "type": "color"
-      },
-      "weak": {
-        "value": "{color._base.brand1.100}",
+      "emphasized": {
+        "value": "{color.red.500}",
         "type": "color"
       },
       "strong": {
-        "value": "{color._base.brand1.700}",
+        "value": "{color.red.600}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.red.200}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.red.100}",
+        "type": "color"
+      },
+      "on-primary": {
+        "value": "{color.neutrals.white}",
         "type": "color"
       }
     },
-    "icon": {
-      "prominentText": {
-        "light": {
-          "value": "{color.text.prominentText.light}",
-          "type": "color"
-        },
-        "dark": {
-          "value": "{color.text.prominentText.dark}",
-          "type": "color"
-        }
+    "secondary": {
+      "default": {
+        "value": "{color.deepSkyBlue.400}",
+        "type": "color"
       },
-      "black": {
-        "value": "{color._base.black}",
-        "type": "color",
-        "description": "Description of use cases for color.icon.black"
+      "emphasized": {
+        "value": "{color.deepSkyBlue.500}",
+        "type": "color"
       },
-      "white": {
-        "value": "{color._base.white}",
-        "type": "color",
-        "description": "Description of use cases for color.icon.white"
+      "strong": {
+        "value": "{color.deepSkyBlue.600}",
+        "type": "color"
       },
-      "coreText": {
-        "light": {
-          "value": "{color.text.coreText.light}",
-          "type": "color",
-          "description": "Description of use cases for color.icon.coreText.light"
-        },
-        "dark": {
-          "value": "{color.text.coreText.dark}",
-          "type": "color",
-          "description": "Description of use cases for color.icon.coreText.dark"
-        }
-      }
-    },
-    "interactive": {
-      "brand1": {
-        "default": {
-          "value": "{color._base.brand1.500}",
-          "type": "color",
-          "description": "Description of use cases for brand1.default"
-        },
-        "hover": {
-          "value": "{color._base.brand1.600}",
-          "type": "color",
-          "description": "Description of use cases for brand1.hover"
-        },
-        "active": {
-          "value": "{color._base.brand1.700}",
-          "type": "color",
-          "description": "Description of use cases for brand1.active"
-        },
-        "disabled": {
-          "value": "{color._base.brand1.100}",
-          "type": "color",
-          "description": "Description of use cases for brand1.disabled"
-        }
+      "muted": {
+        "value": "{color.deepSkyBlue.200}",
+        "type": "color"
       },
-      "brand2": {
-        "default": {
-          "value": "{color._base.brand2.400}",
-          "type": "color",
-          "description": "Description of use cases for brand2.default"
-        }
+      "subtle": {
+        "value": "{color.deepSkyBlue.100}",
+        "type": "color"
+      },
+      "on-secondary": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
       }
     }
   }
