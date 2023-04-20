@@ -1836,19 +1836,19 @@
     },
     "font-nRatio": {
       "headlines": {
-        "value": "{font-nRatio.proximaNova}",
+        "value": "{font-nRatio.redHatDisplay}",
         "type": "other"
       },
       "headings": {
-        "value": "{font-nRatio.proximaNova}",
-        "type": "other"
-      },
-      "subheadings": {
-        "value": "{font-nRatio.proximaNova}",
+        "value": "{font-nRatio.redHatText}",
         "type": "other"
       },
       "body": {
-        "value": "{font-nRatio.proximaNova}",
+        "value": "{font-nRatio.redHatText}",
+        "type": "other"
+      },
+      "mono": {
+        "value": "{font-nRatio.redHatMono}",
         "type": "other"
       },
       "inputs": {
