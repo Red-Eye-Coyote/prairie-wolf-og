@@ -553,23 +553,41 @@
               "type": "color"
             },
             "bg-color-quiet": {
-              "value": "#ffffff",
-              "type": "color"
+              "value": "{semantic.primary.default}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": ".1",
+                    "space": "lch"
+                  }
+                }
+              }
             },
             "border-color": {
               "value": "{semantic.primary.default}",
               "type": "color"
             },
             "border-color-quiet": {
-              "value": "#ffffff",
-              "type": "color"
+              "value": "{semantic.primary.default}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": ".1",
+                    "space": "lch"
+                  }
+                }
+              }
             },
             "text-color": {
               "value": "{semantic.primary.on-primary}",
               "type": "color"
             },
             "text-color-quiet": {
-              "value": "#ffffff",
+              "value": "{semantic.primary.default}",
               "type": "color"
             },
             "icon-color": {
@@ -577,7 +595,7 @@
               "type": "color"
             },
             "icon-color-quiet": {
-              "value": "#ffffff",
+              "value": "{semantic.primary.default}",
               "type": "color"
             }
           },
@@ -587,23 +605,41 @@
               "type": "color"
             },
             "bg-color-quiet": {
-              "value": "#ffffff",
-              "type": "color"
+              "value": "{semantic.primary.emphasized}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": ".1",
+                    "space": "lch"
+                  }
+                }
+              }
             },
             "border-color": {
               "value": "{semantic.primary.emphasized}",
               "type": "color"
             },
             "border-color-quiet": {
-              "value": "#ffffff",
-              "type": "color"
+              "value": "{semantic.primary.emphasized}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": ".1",
+                    "space": "lch"
+                  }
+                }
+              }
             },
             "text-color": {
               "value": "{semantic.primary.on-primary}",
               "type": "color"
             },
             "text-color-quiet": {
-              "value": "#ffffff",
+              "value": "{semantic.primary.emphasized}",
               "type": "color"
             },
             "icon-color": {
@@ -611,7 +647,7 @@
               "type": "color"
             },
             "icon-color-quiet": {
-              "value": "#ffffff",
+              "value": "{semantic.primary.emphasized}",
               "type": "color"
             }
           },
@@ -621,23 +657,41 @@
               "type": "color"
             },
             "bg-color-quiet": {
-              "value": "#ffffff",
-              "type": "color"
+              "value": "{semantic.primary.strong}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": ".1",
+                    "space": "lch"
+                  }
+                }
+              }
             },
             "border-color": {
               "value": "{semantic.primary.strong}",
               "type": "color"
             },
             "border-color-quiet": {
-              "value": "#ffffff",
-              "type": "color"
+              "value": "{semantic.primary.strong}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": ".1",
+                    "space": "lch"
+                  }
+                }
+              }
             },
             "text-color": {
               "value": "{semantic.primary.on-primary}",
               "type": "color"
             },
             "text-color-quiet": {
-              "value": "#ffffff",
+              "value": "{semantic.primary.strong}",
               "type": "color"
             },
             "icon-color": {
@@ -645,7 +699,7 @@
               "type": "color"
             },
             "icon-color-quiet": {
-              "value": "#ffffff",
+              "value": "{semantic.primary.strong}",
               "type": "color"
             }
           },
@@ -655,23 +709,41 @@
               "type": "color"
             },
             "bg-color-quiet": {
-              "value": "#ffffff",
-              "type": "color"
+              "value": "{semantic.primary.muted}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": ".1",
+                    "space": "lch"
+                  }
+                }
+              }
             },
             "border-color": {
               "value": "{semantic.primary.muted}",
               "type": "color"
             },
             "border-color-quiet": {
-              "value": "#ffffff",
-              "type": "color"
+              "value": "{semantic.primary.muted}",
+              "type": "color",
+              "$extensions": {
+                "studio.tokens": {
+                  "modify": {
+                    "type": "alpha",
+                    "value": ".1",
+                    "space": "lch"
+                  }
+                }
+              }
             },
             "text-color": {
               "value": "{semantic.primary.on-primary}",
               "type": "color"
             },
             "text-color-quiet": {
-              "value": "#ffffff",
+              "value": "{semantic.primary.muted}",
               "type": "color"
             },
             "icon-color": {
@@ -679,7 +751,7 @@
               "type": "color"
             },
             "icon-color-quiet": {
-              "value": "#ffffff",
+              "value": "{semantic.primary.muted}",
               "type": "color"
             }
           }
