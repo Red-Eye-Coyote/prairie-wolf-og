@@ -1,15 +1,15 @@
 {
   "font-nRatio": {
-    "proximaNova": {
-      "value": "1.0657",
+    "redHatDisplay": {
+      "value": "1.0738",
       "type": "other"
     },
-    "mrEavesSanOT": {
-      "value": "1.19",
+    "redHatText": {
+      "value": "1.0738",
       "type": "other"
     },
-    "heebo": {
-      "value": "1",
+    "redHatMono": {
+      "value": "1.0738",
       "type": "other"
     }
   }
