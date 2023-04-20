@@ -17,7 +17,6 @@
     "comp/button",
     "comp/alert",
     "comp/badge",
-    "comp/cell",
     "comp/icon-button",
     "comp/input",
     "comp/link",
@@ -26,10 +25,10 @@
     "comp/select",
     "comp/tag",
     "comp/text",
-    "portfolio/light",
-    "portfolio/dark",
     "red_eye_coyote/light",
     "red_eye_coyote/dark",
+    "portfolio/light",
+    "portfolio/dark",
     "system_utils"
   ]
 }
