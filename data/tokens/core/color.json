@@ -1,5 +1,42 @@
 {
   "color": {
+    "classicBlue": {
+      "100": {
+        "value": "#c9d7ea",
+        "type": "color",
+        "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.45:1 against background #ffffff"
+      },
+      "200": {
+        "value": "#a4bbdb",
+        "type": "color",
+        "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.96:1 against background #ffffff"
+      },
+      "300": {
+        "value": "#7e9fcd",
+        "type": "color",
+        "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.71:1 against background #ffffff"
+      },
+      "400": {
+        "value": "#5984be",
+        "type": "color",
+        "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.84:1 against background #ffffff"
+      },
+      "500": {
+        "value": "#3568b0",
+        "type": "color",
+        "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 5.57:1 against background #ffffff"
+      },
+      "600": {
+        "value": "#0f4ca0",
+        "type": "color",
+        "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 8.19:1 against background #ffffff"
+      },
+      "700": {
+        "value": "#0b3571",
+        "type": "color",
+        "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 11.9:1 against background #ffffff"
+      }
+    },
     "ultimateGray": {
       "100": {
         "value": "#d5d6d7",
