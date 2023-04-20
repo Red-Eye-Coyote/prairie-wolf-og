@@ -4,20 +4,20 @@
       "value": "Light",
       "type": "fontWeights"
     },
+    "light_italic": {
+      "value": "Light Italic",
+      "type": "fontWeights"
+    },
     "regular": {
       "value": "Regular",
       "type": "fontWeights"
     },
-    "bold": {
-      "value": "Bold",
+    "semibold": {
+      "value": "SemiBold",
       "type": "fontWeights"
     },
     "black": {
       "value": "Black",
-      "type": "fontWeights"
-    },
-    "heavy": {
-      "value": "Heavy",
       "type": "fontWeights"
     }
   }
