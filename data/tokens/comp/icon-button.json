@@ -18,16 +18,7 @@
       "hover": {
         "bg-color": {
           "value": "{semantic.color.actions.primary.bg-color.hover}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": ".1",
-                "space": "lch"
-              }
-            }
-          }
+          "type": "color"
         },
         "border-color": {
           "value": "{semantic.color.actions.primary.border-color.hover}",
@@ -41,16 +32,7 @@
       "active": {
         "bg-color": {
           "value": "{semantic.color.actions.primary.bg-color.active}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": ".1",
-                "space": "lch"
-              }
-            }
-          }
+          "type": "color"
         },
         "border-color": {
           "value": "{semantic.color.actions.primary.border-color.active}",
@@ -116,7 +98,16 @@
         "active": {
           "bg-color": {
             "value": "{semantic.color.actions.primary.bg-color.active}",
-            "type": "color"
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": ".1",
+                  "space": "lch"
+                }
+              }
+            }
           },
           "border-color": {
             "value": "{semantic.color.actions.primary.border-color.active}",
