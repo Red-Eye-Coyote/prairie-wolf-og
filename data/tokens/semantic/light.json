@@ -563,10 +563,6 @@
             "disabled": {
               "value": "{semantic.primary.muted}",
               "type": "color"
-            },
-            "quiet": {
-              "value": "{color.neutrals.transparent}",
-              "type": "color"
             }
           },
           "text-color": {
@@ -628,10 +624,6 @@
             },
             "disabled": {
               "value": "{semantic.primary.muted}",
-              "type": "color"
-            },
-            "quiet": {
-              "value": "{color.neutrals.transparent}",
               "type": "color"
             }
           }

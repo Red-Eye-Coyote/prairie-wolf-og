@@ -1,11 +1,6 @@
 {
   "color": {
     "ultimateGray": {
-      "base": {
-        "value": "#939597",
-        "type": "color",
-        "description": "Based on Pantone Ultimate Gray"
-      },
       "100": {
         "value": "#d5d6d7",
         "type": "color",
@@ -40,13 +35,14 @@
         "value": "#363738",
         "type": "color",
         "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 11.9:1 against background #ffffff"
+      },
+      "base": {
+        "value": "#939597",
+        "type": "color",
+        "description": "Based on Pantone Ultimate Gray"
       }
     },
     "red": {
-      "base": {
-        "value": "#F20505",
-        "type": "color"
-      },
       "100": {
         "value": "#fccaca",
         "type": "color",
@@ -81,13 +77,13 @@
         "value": "#740202",
         "type": "color",
         "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 11.9:1 against background #ffffff"
+      },
+      "base": {
+        "value": "#F20505",
+        "type": "color"
       }
     },
     "deepSkyBlue": {
-      "base": {
-        "value": "#05AFF2",
-        "type": "color"
-      },
       "100": {
         "value": "#9de0fa",
         "type": "color",
@@ -122,14 +118,13 @@
         "value": "#023b52",
         "type": "color",
         "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 11.9:1 against background #ffffff"
+      },
+      "base": {
+        "value": "#05AFF2",
+        "type": "color"
       }
     },
     "illuminating": {
-      "base": {
-        "value": "#f5df4d",
-        "type": "color",
-        "description": "Based on Pantone Illuminating"
-      },
       "100": {
         "value": "#edd84a",
         "type": "color",
@@ -164,6 +159,11 @@
         "value": "#3d3713",
         "type": "color",
         "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 11.9:1 against background #ffffff"
+      },
+      "base": {
+        "value": "#f5df4d",
+        "type": "color",
+        "description": "Based on Pantone Illuminating"
       }
     },
     "neutrals": {
