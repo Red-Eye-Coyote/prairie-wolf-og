@@ -416,11 +416,11 @@
             "type": "color"
           },
           "text-color": {
-            "value": "{semantic.color.actions.neutral.active.text-color.-quiet}",
+            "value": "{semantic.color.actions.neutral.active.text-color-quiet}",
             "type": "color"
           },
           "icon-color": {
-            "value": "{semantic.color.actions.neutral.active.icon-color.-quiet}",
+            "value": "{semantic.color.actions.neutral.active.icon-color-quiet}",
             "type": "color"
           }
         },
