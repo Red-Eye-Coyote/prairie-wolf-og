@@ -76,19 +76,19 @@
       "icons": {
         "xs": {
           "value": "{dimension.px.200}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "sm": {
           "value": "{dimension.px.250}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "md": {
           "value": "{dimension.px.250}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "lg": {
           "value": "{dimension.px.300}",
-          "type": "sizing"
+          "type": "dimension"
         }
       },
       "status": {
