@@ -69,37 +69,25 @@
         "icon-size": {
           "default": {
             "value": "{semantic.sizing.icons.xs}",
-            "type": "sizing"
+            "type": "dimension"
           }
         }
       },
       "icons": {
         "xs": {
-          "value": "{semantic.font-size.typography.heading.xs}",
+          "value": "{dimension.px.200}",
           "type": "sizing"
         },
         "sm": {
-          "value": "{semantic.font-size.typography.heading.sm}",
+          "value": "{dimension.px.250}",
           "type": "sizing"
         },
         "md": {
-          "value": "{semantic.font-size.typography.heading.md}",
+          "value": "{dimension.px.250}",
           "type": "sizing"
         },
         "lg": {
-          "value": "{semantic.font-size.typography.heading.lg}",
-          "type": "sizing"
-        },
-        "xl": {
-          "value": "{semantic.font-size.typography.heading.xl}",
-          "type": "sizing"
-        },
-        "xxl": {
-          "value": "{semantic.font-size.typography.headline.xs}",
-          "type": "sizing"
-        },
-        "xxxl": {
-          "value": "{semantic.font-size.typography.headline.sm}",
+          "value": "{dimension.px.300}",
           "type": "sizing"
         }
       },
