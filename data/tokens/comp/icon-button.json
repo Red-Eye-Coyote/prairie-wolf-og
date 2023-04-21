@@ -352,11 +352,15 @@
       "icon-size": {
         "xs": {
           "value": "{semantic.sizing.icons.xs}",
-          "type": "sizing"
+          "type": "dimension"
         },
         "sm": {
           "value": "{semantic.sizing.icons.sm}",
-          "type": "sizing"
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{semantic.sizing.icons.lg}",
+          "type": "dimension"
         }
       },
       "height": {
