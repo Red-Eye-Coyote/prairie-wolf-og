@@ -120,11 +120,11 @@
             "type": "color"
           },
           "text-color": {
-            "value": "{semantic.color.actions.primary.active.text-color.-quiet}",
+            "value": "{semantic.color.actions.primary.active.text-color-quiet}",
             "type": "color"
           },
           "icon-color": {
-            "value": "{semantic.color.actions.primary.active.icon-color.-quiet}",
+            "value": "{semantic.color.actions.primary.active.icon-color-quiet}",
             "type": "color"
           }
         },
@@ -268,11 +268,11 @@
             "type": "color"
           },
           "text-color": {
-            "value": "{semantic.color.actions.secondary.active.text-color.-quiet}",
+            "value": "{semantic.color.actions.secondary.active.text-color-quiet}",
             "type": "color"
           },
           "icon-color": {
-            "value": "{semantic.color.actions.secondary.active.icon-color.-quiet}",
+            "value": "{semantic.color.actions.secondary.active.icon-color-quiet}",
             "type": "color"
           }
         },
