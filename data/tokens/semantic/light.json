@@ -1345,11 +1345,11 @@
       },
       "typography": {
         "coreText": {
-          "value": "{color.grey.700}",
+          "value": "{color.neutrals.black}",
           "type": "color"
         },
         "prominentText": {
-          "value": "{color.grey.700}",
+          "value": "{color.neutrals.black}",
           "type": "color"
         },
         "deemphasizedText": {
@@ -1471,7 +1471,7 @@
     "font-weight": {
       "typography": {
         "headlines": {
-          "value": "{font-weight.black}",
+          "value": "{font-weight.bold}",
           "type": "fontWeights"
         },
         "headings": {
@@ -1564,7 +1564,7 @@
         "type": "fontSizes"
       },
       "base": {
-        "value": "{font-size.14}",
+        "value": "{font-size.16}",
         "type": "fontSizes"
       },
       "scale": {
@@ -1713,33 +1713,33 @@
     "line-height": {
       "typography": {
         "headlines": {
-          "650": {
-            "value": "{line-height.650}",
+          "sm": {
+            "value": "{line-height.1000}",
             "type": "lineHeights"
           },
-          "800": {
-            "value": "{line-height.800}",
+          "xs": {
+            "value": "{line-height.850}",
             "type": "lineHeights"
           },
-          "900": {
-            "value": "{line-height.900}",
+          "md": {
+            "value": "{line-height.1250}",
             "type": "lineHeights"
           }
         },
         "headings": {
-          "300": {
+          "sm": {
             "value": "{line-height.300}",
             "type": "lineHeights"
           },
-          "400": {
+          "md": {
             "value": "{line-height.400}",
             "type": "lineHeights"
           },
-          "500": {
+          "lg": {
             "value": "{line-height.500}",
             "type": "lineHeights"
           },
-          "550": {
+          "xl": {
             "value": "{line-height.550}",
             "type": "lineHeights"
           }
@@ -1815,11 +1815,11 @@
     "text-case": {
       "typography": {
         "headlines": {
-          "value": "{text-case.uppercase}",
+          "value": "{text-case.none}",
           "type": "textCase"
         },
         "headings": {
-          "value": "{text-case.capitalize}",
+          "value": "{text-case.none}",
           "type": "textCase"
         },
         "body": {

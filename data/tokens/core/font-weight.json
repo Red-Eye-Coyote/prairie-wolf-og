@@ -16,6 +16,10 @@
       "value": "SemiBold",
       "type": "fontWeights"
     },
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
     "black": {
       "value": "Black",
       "type": "fontWeights"

@@ -51,6 +51,14 @@
     "900": {
       "value": "72",
       "type": "lineHeights"
+    },
+    "1000": {
+      "value": "80",
+      "type": "lineHeights"
+    },
+    "1250": {
+      "value": "100",
+      "type": "lineHeights"
     }
   }
 }

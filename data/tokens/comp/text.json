@@ -5,7 +5,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.headlines}",
           "fontWeight": "{semantic.font-weight.typography.headlines}",
-          "lineHeight": "{semantic.line-height.typography.headlines.650}",
+          "lineHeight": "{semantic.line-height.typography.headlines.xs}",
           "fontSize": "{semantic.font-size.typography.headline.xs} * {semantic.font-nRatio.headlines}",
           "textCase": "{semantic.text-case.typography.headlines}",
           "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
@@ -18,7 +18,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.headlines}",
           "fontWeight": "{semantic.font-weight.typography.headlines}",
-          "lineHeight": "{semantic.line-height.typography.headlines.800}",
+          "lineHeight": "{semantic.line-height.typography.headlines.sm}",
           "fontSize": "{semantic.font-size.typography.headline.sm} * {semantic.font-nRatio.headlines}",
           "textCase": "{semantic.text-case.typography.headlines}",
           "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
@@ -31,7 +31,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.headlines}",
           "fontWeight": "{semantic.font-weight.typography.headlines}",
-          "lineHeight": "{semantic.line-height.typography.headlines.900}",
+          "lineHeight": "{semantic.line-height.typography.headlines.md}",
           "fontSize": "{semantic.font-size.typography.headline.md} * {semantic.font-nRatio.headlines}",
           "textCase": "{semantic.text-case.typography.headlines}",
           "letterSpacing": "{semantic.letter-spacing.typography.headlines.none}",
@@ -49,22 +49,22 @@
     },
     "xs": {
       "value": {
-        "paddingTop": "{semantic.spacing.typography.padding-top.xs}",
-        "paddingBottom": "{semantic.spacing.typography.padding-bottom.xs}"
+        "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}"
       },
       "type": "composition"
     },
     "sm": {
       "value": {
-        "paddingTop": "{semantic.spacing.typography.padding-top.md}",
-        "paddingBottom": "{semantic.spacing.typography.padding-bottom.md}"
+        "paddingTop": "{semantic.spacing.typography.padding-top.sm}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.lg}"
       },
       "type": "composition"
     },
     "md": {
       "value": {
-        "paddingTop": "{semantic.spacing.typography.padding-top.md}",
-        "paddingBottom": "{semantic.spacing.typography.padding-bottom.md}"
+        "paddingTop": "{semantic.spacing.typography.padding-top.sm}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.lg}"
       },
       "type": "composition"
     }
@@ -74,8 +74,8 @@
       "xs": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
-          "lineHeight": "{semantic.line-height.typography.headings.300}",
+          "fontWeight": "{semantic.font-weight.typography.headings}",
+          "lineHeight": "{semantic.line-height.typography.headings.sm}",
           "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
           "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
@@ -88,22 +88,21 @@
       "sm": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
-          "lineHeight": "{semantic.line-height.typography.headings.300}",
+          "fontWeight": "{semantic.font-weight.typography.headings}",
+          "lineHeight": "{semantic.line-height.typography.headings.sm}",
           "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
           "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
           "textDecoration": "none",
           "textCase": "{semantic.text-case.typography.headings}"
         },
-        "type": "typography",
-        "description": "Used to identify third-level sections in standard use cases."
+        "type": "typography"
       },
       "md": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
-          "lineHeight": "{semantic.line-height.typography.headings.400}",
+          "fontWeight": "{semantic.font-weight.typography.headings}",
+          "lineHeight": "{semantic.line-height.typography.headings.md}",
           "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
           "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
@@ -116,22 +115,21 @@
       "lg": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
-          "lineHeight": "{semantic.line-height.typography.headings.500}",
+          "fontWeight": "{semantic.font-weight.typography.headings}",
+          "lineHeight": "{semantic.line-height.typography.headings.lg}",
           "fontSize": "{semantic.font-size.typography.heading.lg} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
           "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
           "textDecoration": "none",
           "textCase": "{semantic.text-case.typography.headings}"
         },
-        "type": "typography",
-        "description": "Used to identify top-level sections in standard use cases."
+        "type": "typography"
       },
       "xl": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headings}",
-          "fontWeight": "{semantic.font-weight.typography.headings.bold}",
-          "lineHeight": "{semantic.line-height.typography.headings.550}",
+          "fontWeight": "{semantic.font-weight.typography.headings}",
+          "lineHeight": "{semantic.line-height.typography.headings.xl}",
           "fontSize": "{semantic.font-size.typography.heading.xl} * {semantic.font-nRatio.headings}",
           "letterSpacing": "{semantic.letter-spacing.typography.headings.none}",
           "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.0}",
@@ -155,30 +153,29 @@
     },
     "xs": {
       "value": {
-        "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
-        "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}",
-        "horizontalPadding": "{semantic.spacing.typography.padding-bottom.xs}"
+        "paddingTop": "{semantic.spacing.typography.padding-top.md}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.md}"
       },
       "type": "composition"
     },
     "sm": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.xs}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.xs}"
+      },
+      "type": "composition"
+    },
+    "md": {
       "value": {
         "paddingTop": "{semantic.spacing.typography.padding-top.md}",
         "paddingBottom": "{semantic.spacing.typography.padding-bottom.md}"
       },
       "type": "composition"
     },
-    "md": {
-      "value": {
-        "paddingTop": "{semantic.spacing.typography.padding-top.sm}",
-        "paddingBottom": "{semantic.spacing.typography.padding-bottom.lg}"
-      },
-      "type": "composition"
-    },
     "lg": {
       "value": {
-        "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
-        "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}"
+        "paddingTop": "{semantic.spacing.typography.padding-top.xs}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.xs}"
       },
       "type": "composition"
     },
@@ -186,73 +183,6 @@
       "value": {
         "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
         "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}"
-      },
-      "type": "composition"
-    }
-  },
-  "subheading": {
-    "text-content": {
-      "xs": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.subheadings}",
-          "fontWeight": "{semantic.font-weight.typography.subheadings.regular}",
-          "lineHeight": "{semantic.line-height.typography.headings.300}",
-          "fontSize": "{semantic.font-size.typography.heading.xs} * {semantic.font-nRatio.subheadings}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.300}",
-          "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
-          "textDecoration": "none",
-          "textCase": "{text-case.none}"
-        },
-        "type": "typography",
-        "description": "Section subheading typically paired with standard.heading3"
-      },
-      "sm": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.subheadings}",
-          "fontWeight": "{semantic.font-weight.typography.subheadings.regular}",
-          "lineHeight": "{semantic.line-height.typography.headings.300}",
-          "fontSize": "{semantic.font-size.typography.heading.sm} * {semantic.font-nRatio.subheadings}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.300}",
-          "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
-          "textDecoration": "none",
-          "textCase": "{text-case.none}"
-        },
-        "type": "typography",
-        "description": "Section subheading typically paired with standard.heading1"
-      },
-      "md": {
-        "value": {
-          "fontFamily": "{semantic.font-family.typography.subheadings}",
-          "fontWeight": "{semantic.font-weight.typography.subheadings.bold}",
-          "lineHeight": "{semantic.line-height.typography.headings.400}",
-          "fontSize": "{semantic.font-size.typography.heading.md} * {semantic.font-nRatio.subheadings}",
-          "paragraphSpacing": "{semantic.paragraph-spacing.typography.headings.400}",
-          "letterSpacing": "{semantic.letter-spacing.typography.subheadings.none}",
-          "textDecoration": "none",
-          "textCase": "{text-case.none}"
-        },
-        "type": "typography",
-        "description": "Page subheading typically paired with standard.headline2"
-      }
-    },
-    "xs": {
-      "value": {
-        "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
-        "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}"
-      },
-      "type": "composition"
-    },
-    "sm": {
-      "value": {
-        "paddingTop": "{semantic.spacing.typography.padding-top.md}",
-        "paddingBottom": "{semantic.spacing.typography.padding-bottom.md}"
-      },
-      "type": "composition"
-    },
-    "md": {
-      "value": {
-        "paddingTop": "{semantic.spacing.typography.padding-top.sm}",
-        "paddingBottom": "{semantic.spacing.typography.padding-bottom.lg}"
       },
       "type": "composition"
     }
@@ -310,8 +240,7 @@
       "textDecoration": "none",
       "textCase": "{semantic.text-case.typography.body}"
     },
-    "type": "typography",
-    "description": "Used for general text and data"
+    "type": "typography"
   },
   "caption": {
     "value": {
@@ -324,7 +253,6 @@
       "textCase": "{text-case.none}",
       "textDecoration": "none"
     },
-    "type": "typography",
-    "description": "Description of use cases for standard.caption"
+    "type": "typography"
   }
 }
