@@ -44,7 +44,7 @@
     "primary": {
       "default": {
         "text-color": {
-          "value": "{semantic.primary.default}",
+          "value": "{semantic.fg.accent}",
           "type": "color"
         },
         "fg-color": {
@@ -59,6 +59,12 @@
           "value": "{semantic.color.typography.coreText}",
           "type": "color"
         },
+        "fg-color": {
+          "value": "{semantic.neutral.muted}",
+          "type": "color"
+        }
+      },
+      "hover": {
         "fg-color": {
           "value": "{semantic.fg.default}",
           "type": "color"
