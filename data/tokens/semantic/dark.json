@@ -17,6 +17,12 @@
         "value": "{color.neutrals.black}",
         "type": "color"
       }
+    },
+    "fg": {
+      "default": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      }
     }
   }
 }
