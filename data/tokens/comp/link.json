@@ -40,6 +40,30 @@
         },
         "type": "typography"
       }
+    },
+    "primary": {
+      "default": {
+        "text-color": {
+          "value": "{semantic.primary.default}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{semantic.fg.accent}",
+          "type": "color"
+        }
+      }
+    },
+    "neutral": {
+      "default": {
+        "text-color": {
+          "value": "{semantic.color.typography.coreText}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{semantic.fg.default}",
+          "type": "color"
+        }
+      }
     }
   }
 }
