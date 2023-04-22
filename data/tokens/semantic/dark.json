@@ -1,1 +1,22 @@
-{}
+{
+  "semantic": {
+    "color": {
+      "typography": {
+        "coreText": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        },
+        "prominentText": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        }
+      }
+    },
+    "bg": {
+      "surface": {
+        "value": "{color.neutrals.black}",
+        "type": "color"
+      }
+    }
+  }
+}

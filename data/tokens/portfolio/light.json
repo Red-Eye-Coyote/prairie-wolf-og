@@ -51,6 +51,12 @@
         "value": "{color.neutrals.white}",
         "type": "color"
       }
+    },
+    "fg": {
+      "accent": {
+        "value": "{color.illuminating.base}",
+        "type": "color"
+      }
     }
   }
 }

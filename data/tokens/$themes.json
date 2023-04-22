@@ -95,37 +95,6 @@
     "$figmaStyleReferences": {}
   },
   {
-    "id": "977320efd0231ca624f037768416b933e8589247",
-    "name": "Headless - Dark",
-    "selectedTokenSets": {
-      "core/color": "source",
-      "core/border": "source",
-      "core/dimension": "source",
-      "core/font-family": "source",
-      "core/font-nRatio": "source",
-      "core/font-scale": "source",
-      "core/font-size": "source",
-      "core/font-weight": "source",
-      "core/letter-spacing": "source",
-      "core/line-height": "source",
-      "core/paragraph-spacing": "source",
-      "core/text-case": "source",
-      "semantic/dark": "source",
-      "comp/button": "enabled",
-      "comp/alert": "enabled",
-      "comp/badge": "enabled",
-      "comp/icon-button": "enabled",
-      "comp/input": "enabled",
-      "comp/link": "enabled",
-      "comp/multiselect": "enabled",
-      "comp/option": "enabled",
-      "comp/select": "enabled",
-      "comp/tag": "enabled",
-      "comp/text": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "aae689086b666be02fdd14b4cfad26c92136f231",
     "name": "REC - Light",
     "selectedTokenSets": {
@@ -186,6 +155,38 @@
       "comp/tag": "enabled",
       "comp/text": "enabled",
       "rec/dark": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "977320efd0231ca624f037768416b933e8589247",
+    "name": "Headless - Dark",
+    "selectedTokenSets": {
+      "core/color": "source",
+      "core/border": "source",
+      "core/dimension": "source",
+      "core/font-family": "source",
+      "core/font-nRatio": "source",
+      "core/font-scale": "source",
+      "core/font-size": "source",
+      "core/font-weight": "source",
+      "core/letter-spacing": "source",
+      "core/line-height": "source",
+      "core/paragraph-spacing": "source",
+      "core/text-case": "source",
+      "semantic/dark": "source",
+      "comp/button": "enabled",
+      "comp/alert": "enabled",
+      "comp/badge": "enabled",
+      "comp/icon-button": "enabled",
+      "comp/input": "enabled",
+      "comp/link": "enabled",
+      "comp/multiselect": "enabled",
+      "comp/option": "enabled",
+      "comp/select": "enabled",
+      "comp/tag": "enabled",
+      "comp/text": "enabled",
+      "semantic/light": "source"
     },
     "$figmaStyleReferences": {}
   }
