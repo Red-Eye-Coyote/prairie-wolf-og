@@ -22,6 +22,10 @@
       "default": {
         "value": "{color.neutrals.white}",
         "type": "color"
+      },
+      "subtle": {
+        "value": "{color.ultimateGray.100}",
+        "type": "color"
       }
     }
   }

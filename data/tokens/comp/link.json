@@ -73,6 +73,22 @@
     }
   },
   "navlink": {
+    "default": {
+      "text-color": {
+        "value": "{semantic.fg.subtle}",
+        "type": "color"
+      },
+      "fg-color": {
+        "value": "{semantic.fg.accent}",
+        "type": "color"
+      }
+    },
+    "active": {
+      "text-color": {
+        "value": "{semantic.fg.default}",
+        "type": "color"
+      }
+    },
     "text-content": {
       "default": {
         "md": {
