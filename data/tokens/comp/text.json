@@ -187,6 +187,19 @@
       "type": "composition"
     }
   },
+  "body": {
+    "value": {
+      "fontFamily": "{semantic.font-family.typography.body}",
+      "fontWeight": "{semantic.font-weight.typography.body.regular}",
+      "lineHeight": "{semantic.line-height.typography.body.300}",
+      "fontSize": "{semantic.font-size.typography.body.md} * {semantic.font-nRatio.body}",
+      "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
+      "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.300}",
+      "textDecoration": "none",
+      "textCase": "{semantic.text-case.typography.body}"
+    },
+    "type": "typography"
+  },
   "title1": {
     "value": {
       "fontFamily": "{semantic.font-family.typography.body}",
@@ -228,19 +241,6 @@
     },
     "type": "typography",
     "description": "Used to identify modular sections such as cards."
-  },
-  "body": {
-    "value": {
-      "fontFamily": "{semantic.font-family.typography.body}",
-      "fontWeight": "{semantic.font-weight.typography.body.regular}",
-      "lineHeight": "{semantic.line-height.typography.body.300}",
-      "fontSize": "{semantic.font-size.typography.body.md} * {semantic.font-nRatio.body}",
-      "letterSpacing": "{semantic.letter-spacing.typography.body.none}",
-      "paragraphSpacing": "{semantic.paragraph-spacing.typography.body.300}",
-      "textDecoration": "none",
-      "textCase": "{semantic.text-case.typography.body}"
-    },
-    "type": "typography"
   },
   "caption": {
     "value": {
