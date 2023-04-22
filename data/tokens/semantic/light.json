@@ -414,7 +414,7 @@
         "type": "color"
       },
       "accent": {
-        "value": "{semantic.primary.default}",
+        "value": "{color.classicBlue.base}",
         "type": "color"
       },
       "on-strong": {
