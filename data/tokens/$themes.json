@@ -187,7 +187,8 @@
       "comp/tag": "enabled",
       "comp/text": "enabled",
       "portfolio/dark": "enabled",
-      "semantic/light": "source"
+      "semantic/light": "source",
+      "portfolio/light": "enabled"
     },
     "$figmaStyleReferences": {}
   }
