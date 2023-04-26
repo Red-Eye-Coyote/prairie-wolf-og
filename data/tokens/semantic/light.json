@@ -263,6 +263,22 @@
         "value": "{color.classicBlue.100}",
         "type": "color"
       },
+      "secondary": {
+        "value": "{color.ultraViolet.400}",
+        "type": "color"
+      },
+      "on-secondary": {
+        "value": "{color.neutral.white}",
+        "type": "color"
+      },
+      "secondary-container": {
+        "value": "{color.ultraViolet.900}",
+        "type": "color"
+      },
+      "on-secondary-container": {
+        "value": "{color.ultraViolet.100}",
+        "type": "color"
+      },
       "typography": {
         "coreText": {
           "value": "{color.neutral.black}",
