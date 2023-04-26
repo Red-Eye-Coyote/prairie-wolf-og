@@ -79,6 +79,57 @@
         "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 11.9:1 against background #ffffff"
       }
     },
+    "illuminating": {
+      "100": {
+        "value": "#201c00",
+        "type": "color"
+      },
+      "200": {
+        "value": "#373100",
+        "type": "color"
+      },
+      "300": {
+        "value": "#504700",
+        "type": "color"
+      },
+      "400": {
+        "value": "#6b5f00",
+        "type": "color"
+      },
+      "500": {
+        "value": "#867800",
+        "type": "color"
+      },
+      "600": {
+        "value": "#a39100",
+        "type": "color"
+      },
+      "700": {
+        "value": "#c0ac17",
+        "type": "color"
+      },
+      "800": {
+        "value": "#ddc837",
+        "type": "color"
+      },
+      "900": {
+        "value": "#fae451",
+        "type": "color"
+      },
+      "950": {
+        "value": "#fff2ac",
+        "type": "color"
+      },
+      "990": {
+        "value": "#fffbff",
+        "type": "color"
+      },
+      "base": {
+        "value": "#f5df4d",
+        "type": "color",
+        "description": "Based on Pantone Illuminating"
+      }
+    },
     "ultimateGray": {
       "100": {
         "value": "#d5d6d7",
@@ -119,48 +170,6 @@
         "value": "#939597",
         "type": "color",
         "description": "Based on Pantone Ultimate Gray"
-      }
-    },
-    "illuminating": {
-      "100": {
-        "value": "#edd84a",
-        "type": "color",
-        "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.45:1 against background #ffffff"
-      },
-      "200": {
-        "value": "#ccba40",
-        "type": "color",
-        "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.96:1 against background #ffffff"
-      },
-      "300": {
-        "value": "#ad9e36",
-        "type": "color",
-        "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.71:1 against background #ffffff"
-      },
-      "400": {
-        "value": "#90832d",
-        "type": "color",
-        "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.84:1 against background #ffffff"
-      },
-      "500": {
-        "value": "#736824",
-        "type": "color",
-        "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 5.57:1 against background #ffffff"
-      },
-      "600": {
-        "value": "#574f1b",
-        "type": "color",
-        "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 8.19:1 against background #ffffff"
-      },
-      "700": {
-        "value": "#3d3713",
-        "type": "color",
-        "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 11.9:1 against background #ffffff"
-      },
-      "base": {
-        "value": "#f5df4d",
-        "type": "color",
-        "description": "Based on Pantone Illuminating"
       }
     },
     "red": {
@@ -252,52 +261,6 @@
       },
       "white": {
         "value": "#ffffff",
-        "type": "color"
-      }
-    },
-    "illuminatingTest": {
-      "100": {
-        "value": "#201c00",
-        "type": "color"
-      },
-      "200": {
-        "value": "#373100",
-        "type": "color"
-      },
-      "300": {
-        "value": "#504700",
-        "type": "color"
-      },
-      "400": {
-        "value": "#6b5f00",
-        "type": "color"
-      },
-      "500": {
-        "value": "#867800",
-        "type": "color"
-      },
-      "600": {
-        "value": "#a39100",
-        "type": "color"
-      },
-      "700": {
-        "value": "#c0ac17",
-        "type": "color"
-      },
-      "800": {
-        "value": "#ddc837",
-        "type": "color"
-      },
-      "900": {
-        "value": "#fae451",
-        "type": "color"
-      },
-      "950": {
-        "value": "#fff2ac",
-        "type": "color"
-      },
-      "990": {
-        "value": "#fffbff",
         "type": "color"
       }
     }
