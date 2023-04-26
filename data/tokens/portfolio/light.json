@@ -16,22 +16,6 @@
       "on-primary-container": {
         "value": "{color.illuminating.100}",
         "type": "color"
-      },
-      "background": {
-        "value": "{color.ultimateGray.990}",
-        "type": "color"
-      },
-      "on-background": {
-        "value": "{color.ultimateGray.100}",
-        "type": "color"
-      },
-      "surface": {
-        "value": "{color.ultimateGray.990}",
-        "type": "color"
-      },
-      "on-surface": {
-        "value": "{color.ultimateGray.100}",
-        "type": "color"
       }
     }
   }
