@@ -294,24 +294,6 @@
       "on-surface": {
         "value": "{color.ultimateGray.100}",
         "type": "color"
-      },
-      "typography": {
-        "coreText": {
-          "value": "{color.neutral.black}",
-          "type": "color"
-        },
-        "prominentText": {
-          "value": "{color.neutral.black}",
-          "type": "color"
-        },
-        "deemphasizedText": {
-          "value": "{color.ultimateGray.300}",
-          "type": "color"
-        },
-        "accent": {
-          "value": "{semantic.primary.default}",
-          "type": "color"
-        }
       }
     },
     "border-radius": {
