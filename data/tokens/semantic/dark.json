@@ -43,7 +43,7 @@
           "type": "color"
         },
         "surface": {
-          "value": "{color.ultimateGray.10}",
+          "value": "{color.ultimateGray.100}",
           "type": "color"
         },
         "on-surface": {
