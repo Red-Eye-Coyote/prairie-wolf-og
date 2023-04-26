@@ -2,39 +2,48 @@
   "color": {
     "classicBlue": {
       "100": {
-        "value": "#cad8e3",
-        "type": "color",
-        "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.45:1 against background #ffffff"
+        "value": "#001c37",
+        "type": "color"
       },
       "200": {
-        "value": "#a5bcd0",
-        "type": "color",
-        "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.96:1 against background #ffffff"
+        "value": "#00325a",
+        "type": "color"
       },
       "300": {
-        "value": "#80a1bd",
-        "type": "color",
-        "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.71:1 against background #ffffff"
+        "value": "#00487f",
+        "type": "color"
       },
       "400": {
-        "value": "#5d86aa",
-        "type": "color",
-        "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.84:1 against background #ffffff"
+        "value": "#0d61a4",
+        "type": "color"
       },
       "500": {
-        "value": "#3a6c97",
-        "type": "color",
-        "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 5.57:1 against background #ffffff"
+        "value": "#367abf",
+        "type": "color"
       },
       "600": {
-        "value": "#165185",
-        "type": "color",
-        "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 8.19:1 against background #ffffff"
+        "value": "#5494db",
+        "type": "color"
       },
       "700": {
-        "value": "#0b3860",
-        "type": "color",
-        "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 11.9:1 against background #ffffff"
+        "value": "#71aff7",
+        "type": "color"
+      },
+      "800": {
+        "value": "#a0c9ff",
+        "type": "color"
+      },
+      "900": {
+        "value": "#d2e4ff",
+        "type": "color"
+      },
+      "950": {
+        "value": "#eaf1ff",
+        "type": "color"
+      },
+      "990": {
+        "value": "#fdfcff",
+        "type": "color"
       },
       "base": {
         "value": "#0f4c81",

@@ -248,7 +248,7 @@
     },
     "color": {
       "primary": {
-        "value": "{illuminating.400}",
+        "value": "{color.illuminating.400}",
         "type": "color"
       },
       "on-primary": {
@@ -256,20 +256,20 @@
         "type": "color"
       },
       "primary-container": {
-        "value": "{illuminating.900}",
+        "value": "{color.illuminating.900}",
         "type": "color"
       },
       "on-primary-container": {
-        "value": "{illuminating.100}",
+        "value": "{color.illuminating.100}",
         "type": "color"
       },
       "typography": {
         "coreText": {
-          "value": "{color.neutrals.black}",
+          "value": "{color.neutral.black}",
           "type": "color"
         },
         "prominentText": {
-          "value": "{color.neutrals.black}",
+          "value": "{color.neutral.black}",
           "type": "color"
         },
         "deemphasizedText": {
