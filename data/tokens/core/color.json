@@ -254,7 +254,7 @@
         "type": "color"
       }
     },
-    "neutrals": {
+    "neutral": {
       "black": {
         "value": "#000000",
         "type": "color"
