@@ -4,8 +4,8 @@
       "sm": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.display}",
-          "fontWeight": "{semantic.font-weight.typography.display.black}",
-          "lineHeight": "{semantic.line-height.typography.display.sm}",
+          "fontWeight": "{semantic.font-weight.typography.display.regular}",
+          "lineHeight": "{line-height.600}",
           "fontSize": "{semantic.font-size.typography.display.sm} * {semantic.font-nRatio.display}",
           "textCase": "{semantic.text-case.typography.display}",
           "letterSpacing": "{semantic.letter-spacing.typography.display.0}",
@@ -17,8 +17,8 @@
       "md": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.display}",
-          "fontWeight": "{semantic.font-weight.typography.display.black}",
-          "lineHeight": "{semantic.line-height.typography.display.md}",
+          "fontWeight": "{semantic.font-weight.typography.display.regular}",
+          "lineHeight": "{line-height.750}",
           "fontSize": "{semantic.font-size.typography.display.md} * {semantic.font-nRatio.display}",
           "textCase": "{semantic.text-case.typography.display}",
           "letterSpacing": "{semantic.letter-spacing.typography.display.0}",
@@ -31,7 +31,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.display}",
           "fontWeight": "{semantic.font-weight.typography.display.black}",
-          "lineHeight": "{semantic.line-height.typography.display.lg}",
+          "lineHeight": "{line-height.900}",
           "fontSize": "{semantic.font-size.typography.display.lg} * {semantic.font-nRatio.display}",
           "textCase": "{semantic.text-case.typography.display}",
           "letterSpacing": "{semantic.letter-spacing.typography.display.0}",
@@ -44,7 +44,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.display}",
           "fontWeight": "{semantic.font-weight.typography.display.black}",
-          "lineHeight": "{semantic.line-height.typography.display.xl}",
+          "lineHeight": "{line-height.1100}",
           "fontSize": "{semantic.font-size.typography.display.xl} * {semantic.font-nRatio.display}",
           "textCase": "{semantic.text-case.typography.display}",
           "letterSpacing": "{semantic.letter-spacing.typography.display.0}",
@@ -56,15 +56,15 @@
     },
     "sm": {
       "value": {
-        "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
-        "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}"
+        "paddingTop": "{semantic.spacing.typography.padding-top.sm}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.lg}"
       },
       "type": "composition"
     },
     "md": {
       "value": {
-        "paddingTop": "{semantic.spacing.typography.padding-top.sm}",
-        "paddingBottom": "{semantic.spacing.typography.padding-bottom.lg}"
+        "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}"
       },
       "type": "composition"
     },
@@ -77,25 +77,25 @@
     },
     "xl": {
       "value": {
-        "paddingTop": "{semantic.spacing.typography.padding-top.sm}",
-        "paddingBottom": "{semantic.spacing.typography.padding-bottom.lg}"
+        "paddingTop": "{semantic.spacing.typography.padding-top.lg}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}"
       },
       "type": "composition"
-    }
-  },
-  "headline": {
+    },
     "default": {
       "text-color": {
         "value": "{semantic.color.typography.prominentText}",
         "type": "color"
       }
-    },
+    }
+  },
+  "headline": {
     "text-content": {
       "sm": {
         "value": {
           "fontFamily": "{semantic.font-family.typography.headline}",
           "fontWeight": "{semantic.font-weight.typography.headline.semibold}",
-          "lineHeight": "{semantic.line-height.typography.headline.sm}",
+          "lineHeight": "{line-height.350}",
           "fontSize": "{semantic.font-size.typography.headline.sm} * {semantic.font-nRatio.headline}",
           "letterSpacing": "{semantic.letter-spacing.typography.headline.0}",
           "paragraphSpacing": "",
@@ -108,7 +108,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.headline}",
           "fontWeight": "{semantic.font-weight.typography.headline.semibold}",
-          "lineHeight": "{semantic.line-height.typography.headline.sm}",
+          "lineHeight": "{line-height.400}",
           "fontSize": "{semantic.font-size.typography.headline.md} * {semantic.font-nRatio.headline}",
           "letterSpacing": "{semantic.letter-spacing.typography.headline.0}",
           "paragraphSpacing": "",
@@ -121,7 +121,7 @@
         "value": {
           "fontFamily": "{semantic.font-family.typography.headline}",
           "fontWeight": "{semantic.font-weight.typography.headline.semibold}",
-          "lineHeight": "{semantic.line-height.typography.headline.lg}",
+          "lineHeight": "{line-height.500}",
           "fontSize": "{semantic.font-size.typography.headline.lg} * {semantic.font-nRatio.headline}",
           "letterSpacing": "{semantic.letter-spacing.typography.headline.0}",
           "paragraphSpacing": "",
@@ -130,6 +130,27 @@
         },
         "type": "typography"
       }
+    },
+    "sm": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.md}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.md}"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.md}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.md}"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "paddingTop": "{semantic.spacing.typography.padding-top.xs}",
+        "paddingBottom": "{semantic.spacing.typography.padding-bottom.xs}"
+      },
+      "type": "composition"
     }
   },
   "title": {
@@ -272,27 +293,6 @@
         "value": "{semantic.color.typography.deemphasizedText}",
         "type": "color"
       }
-    },
-    "sm": {
-      "value": {
-        "paddingTop": "{semantic.spacing.typography.padding-top.xs}",
-        "paddingBottom": "{semantic.spacing.typography.padding-bottom.xs}"
-      },
-      "type": "composition"
-    },
-    "md": {
-      "value": {
-        "paddingTop": "{semantic.spacing.typography.padding-top.md}",
-        "paddingBottom": "{semantic.spacing.typography.padding-bottom.md}"
-      },
-      "type": "composition"
-    },
-    "lg": {
-      "value": {
-        "paddingTop": "{semantic.spacing.typography.padding-top.xs}",
-        "paddingBottom": "{semantic.spacing.typography.padding-bottom.xs}"
-      },
-      "type": "composition"
     }
   },
   "body": {

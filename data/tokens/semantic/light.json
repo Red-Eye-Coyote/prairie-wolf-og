@@ -154,7 +154,7 @@
       "typography": {
         "padding-top": {
           "xs": {
-            "value": "{dimension.px.0}",
+            "value": "0px",
             "type": "dimension"
           },
           "sm": {
@@ -162,7 +162,7 @@
             "type": "dimension"
           },
           "md": {
-            "value": "{dimension.px.25}",
+            "value": "2px",
             "type": "dimension"
           },
           "lg": {
@@ -172,7 +172,7 @@
         },
         "padding-bottom": {
           "xs": {
-            "value": "{dimension.px.0}",
+            "value": "0px",
             "type": "dimension"
           },
           "sm": {
@@ -180,7 +180,7 @@
             "type": "dimension"
           },
           "md": {
-            "value": "{dimension.px.25}",
+            "value": "2px",
             "type": "dimension"
           },
           "lg": {
@@ -1592,84 +1592,6 @@
         "type": "other"
       }
     },
-    "line-height": {
-      "typography": {
-        "display": {
-          "sm": {
-            "value": "{line-height.850}",
-            "type": "lineHeights"
-          },
-          "md": {
-            "value": "{line-height.1000}",
-            "type": "lineHeights"
-          },
-          "lg": {
-            "value": "{line-height.1250}",
-            "type": "lineHeights"
-          }
-        },
-        "headline": {
-          "sm": {
-            "value": "{line-height.300}",
-            "type": "lineHeights"
-          },
-          "md": {
-            "value": "{line-height.400}",
-            "type": "lineHeights"
-          },
-          "lg": {
-            "value": "{line-height.500}",
-            "type": "lineHeights"
-          },
-          "xl": {
-            "value": "{line-height.550}",
-            "type": "lineHeights"
-          }
-        },
-        "body": {
-          "sm": {
-            "value": "{line-height.200}",
-            "type": "lineHeights"
-          },
-          "md": {
-            "value": "{line-height.300}",
-            "type": "lineHeights"
-          },
-          "lg": {
-            "value": "{line-height.350}",
-            "type": "lineHeights"
-          }
-        },
-        "title": {
-          "sm": {
-            "value": "{line-height.200}",
-            "type": "lineHeights"
-          },
-          "md": {
-            "value": "{line-height.300}",
-            "type": "lineHeights"
-          },
-          "lg": {
-            "value": "{line-height.350}",
-            "type": "lineHeights"
-          }
-        },
-        "label": {
-          "sm": {
-            "value": "{line-height.200}",
-            "type": "lineHeights"
-          },
-          "md": {
-            "value": "{line-height.300}",
-            "type": "lineHeights"
-          },
-          "lg": {
-            "value": "{line-height.350}",
-            "type": "lineHeights"
-          }
-        }
-      }
-    },
     "text-case": {
       "typography": {
         "display": {
@@ -1732,13 +1654,13 @@
             "type": "paragraphSpacing"
           }
         },
-        "headlines": {
+        "display": {
           "0": {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
           }
         },
-        "headings": {
+        "headline": {
           "0": {
             "value": "{paragraphSpacing.0}",
             "type": "paragraphSpacing"
