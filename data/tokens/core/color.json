@@ -254,6 +254,52 @@
         "value": "#ffffff",
         "type": "color"
       }
+    },
+    "illuminatingTest": {
+      "100": {
+        "value": "#201c00",
+        "type": "color"
+      },
+      "200": {
+        "value": "#373100",
+        "type": "color"
+      },
+      "300": {
+        "value": "#504700",
+        "type": "color"
+      },
+      "400": {
+        "value": "#6b5f00",
+        "type": "color"
+      },
+      "500": {
+        "value": "#867800",
+        "type": "color"
+      },
+      "600": {
+        "value": "#a39100",
+        "type": "color"
+      },
+      "700": {
+        "value": "#c0ac17",
+        "type": "color"
+      },
+      "800": {
+        "value": "#ddc837",
+        "type": "color"
+      },
+      "900": {
+        "value": "#fae451",
+        "type": "color"
+      },
+      "950": {
+        "value": "#fff2ac",
+        "type": "color"
+      },
+      "990": {
+        "value": "#fffbff",
+        "type": "color"
+      }
     }
   }
 }
