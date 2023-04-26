@@ -53,39 +53,53 @@
     },
     "ultraViolet": {
       "100": {
-        "value": "#d9d4e4",
-        "type": "color",
-        "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.45:1 against background #ffffff"
+        "value": "#22005d",
+        "type": "color"
       },
       "200": {
-        "value": "#beb5d0",
-        "type": "color",
-        "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.96:1 against background #ffffff"
+        "value": "#371e73",
+        "type": "color"
       },
       "300": {
-        "value": "#a397bc",
-        "type": "color",
-        "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.71:1 against background #ffffff"
+        "value": "#4e378b",
+        "type": "color"
       },
       "400": {
-        "value": "#897aaa",
-        "type": "color",
-        "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.84:1 against background #ffffff"
+        "value": "#6650a4",
+        "type": "color"
       },
       "500": {
-        "value": "#705e98",
-        "type": "color",
-        "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 5.57:1 against background #ffffff"
+        "value": "#8069bf",
+        "type": "color"
       },
       "600": {
-        "value": "#57457f",
-        "type": "color",
-        "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 8.19:1 against background #ffffff"
+        "value": "#9a83db",
+        "type": "color"
       },
       "700": {
-        "value": "#3c3059",
+        "value": "#b59df8",
+        "type": "color"
+      },
+      "800": {
+        "value": "#cfbdff",
+        "type": "color"
+      },
+      "900": {
+        "value": "#e8ddff",
+        "type": "color"
+      },
+      "950": {
+        "value": "#f5eeff",
+        "type": "color"
+      },
+      "990": {
+        "value": "#fdfcff",
+        "type": "color"
+      },
+      "base": {
+        "value": "#645394",
         "type": "color",
-        "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 11.9:1 against background #ffffff"
+        "description": "Based on Pantone Ultra Violet"
       }
     },
     "illuminating": {
