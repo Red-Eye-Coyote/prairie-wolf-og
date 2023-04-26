@@ -248,7 +248,7 @@
     },
     "color": {
       "primary": {
-        "value": "{color.illuminating.400}",
+        "value": "{color.classicBlue.400}",
         "type": "color"
       },
       "on-primary": {
@@ -256,11 +256,11 @@
         "type": "color"
       },
       "primary-container": {
-        "value": "{color.illuminating.900}",
+        "value": "{color.classicBlue.900}",
         "type": "color"
       },
       "on-primary-container": {
-        "value": "{color.illuminating.100}",
+        "value": "{color.classicBlue.100}",
         "type": "color"
       },
       "typography": {
