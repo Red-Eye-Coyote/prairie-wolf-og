@@ -20,6 +20,10 @@
       "value": "32",
       "type": "lineHeights"
     },
+    "450": {
+      "value": "36",
+      "type": "lineHeights"
+    },
     "500": {
       "value": "40",
       "type": "lineHeights"

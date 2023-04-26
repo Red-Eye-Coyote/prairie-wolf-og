@@ -27,52 +27,6 @@
           "type": "dimension"
         }
       },
-      "actions": {
-        "xs": {
-          "value": "{semantic.sizing.component.xs}",
-          "type": "dimension"
-        },
-        "sm": {
-          "value": "{semantic.sizing.component.sm}",
-          "type": "dimension"
-        },
-        "md": {
-          "value": "{semantic.sizing.component.md}",
-          "type": "dimension"
-        },
-        "lg": {
-          "value": "{semantic.sizing.component.lg}",
-          "type": "dimension"
-        }
-      },
-      "inputs": {
-        "xs": {
-          "value": "{semantic.sizing.component.xs}",
-          "type": "dimension"
-        },
-        "sm": {
-          "value": "{semantic.sizing.component.sm}",
-          "type": "dimension"
-        },
-        "md": {
-          "value": "{semantic.sizing.component.md}",
-          "type": "dimension"
-        },
-        "lg": {
-          "value": "{semantic.sizing.component.lg}",
-          "type": "dimension"
-        },
-        "xxl": {
-          "value": "{dimension.px.1450}",
-          "type": "dimension"
-        },
-        "icon-size": {
-          "default": {
-            "value": "{semantic.sizing.icons.xs}",
-            "type": "dimension"
-          }
-        }
-      },
       "icons": {
         "xs": {
           "value": "{dimension.px.200}",
@@ -89,36 +43,6 @@
         "lg": {
           "value": "{dimension.px.300}",
           "type": "dimension"
-        }
-      },
-      "status": {
-        "value": "{semantic.sizing.component.xxs}",
-        "type": "dimension"
-      },
-      "feedback": {
-        "sm": {
-          "value": "{semantic.sizing.component.md}",
-          "type": "dimension"
-        },
-        "md": {
-          "value": "{semantic.sizing.component.xl}",
-          "type": "dimension"
-        }
-      },
-      "tables": {
-        "cell": {
-          "sm": {
-            "value": "{semantic.sizing.component.sm}",
-            "type": "dimension"
-          },
-          "md": {
-            "value": "{semantic.sizing.component.md}",
-            "type": "dimension"
-          },
-          "lg": {
-            "value": "{semantic.sizing.component.lg}",
-            "type": "dimension"
-          }
         }
       }
     },
@@ -1430,11 +1354,19 @@
     },
     "font-family": {
       "typography": {
-        "headlines": {
+        "display": {
           "value": "{font-family.redHatDisplay}",
           "type": "fontFamilies"
         },
-        "headings": {
+        "headline": {
+          "value": "{font-family.redHatText}",
+          "type": "fontFamilies"
+        },
+        "title": {
+          "value": "{font-family.redHatText}",
+          "type": "fontFamilies"
+        },
+        "label": {
           "value": "{font-family.redHatText}",
           "type": "fontFamilies"
         },
@@ -1446,45 +1378,23 @@
           "value": "{font-family.redHatMono}",
           "type": "fontFamilies"
         }
-      },
-      "actions": {
-        "value": "{font-family.redHatText}",
-        "type": "fontFamilies"
-      },
-      "status": {
-        "value": "{font-family.redHatText}",
-        "type": "fontFamilies"
-      },
-      "inputs": {
-        "value": "{font-family.redHatText}",
-        "type": "fontFamilies"
-      },
-      "feedback": {
-        "value": "{font-family.redHatText}",
-        "type": "fontFamilies"
-      },
-      "tables": {
-        "value": "{font-family.redHatText}",
-        "type": "fontFamilies"
       }
     },
     "font-weight": {
       "typography": {
-        "headlines": {
-          "value": "{font-weight.bold}",
-          "type": "fontWeights"
-        },
-        "headings": {
-          "value": "{font-weight.semibold}",
-          "type": "fontWeights"
-        },
-        "body": {
+        "display": {
           "regular": {
             "value": "{font-weight.regular}",
             "type": "fontWeights"
           },
-          "lightItalic": {
-            "value": "{font-weight.lightItalic}",
+          "black": {
+            "value": "{font-weight.black}",
+            "type": "fontWeights"
+          }
+        },
+        "headline": {
+          "regular": {
+            "value": "{font-weight.regular}",
             "type": "fontWeights"
           },
           "semibold": {
@@ -1492,42 +1402,38 @@
             "type": "fontWeights"
           }
         },
+        "title": {
+          "regular": {
+            "value": "{font-weight.regular}",
+            "type": "fontWeights"
+          },
+          "semibold": {
+            "value": "{font-weight.semibold}",
+            "type": "fontWeights"
+          }
+        },
+        "label": {
+          "semibold": {
+            "value": "{font-weight.semibold}",
+            "type": "fontWeights"
+          }
+        },
+        "body": {
+          "lightItalic": {
+            "value": "{font-weight.lightItalic}",
+            "type": "fontWeights"
+          },
+          "regular": {
+            "value": "{font-weight.regular}",
+            "type": "fontWeights"
+          }
+        },
         "mono": {
-          "value": "{font-weight.regular}",
-          "type": "fontWeights"
+          "regular": {
+            "value": "{font-weight.regular}",
+            "type": "fontWeights"
+          }
         }
-      },
-      "inputs": {
-        "regular": {
-          "value": "{font-weight.regular}",
-          "type": "fontWeights"
-        },
-        "bold": {
-          "value": "{font-weight.bold}",
-          "type": "fontWeights"
-        }
-      },
-      "tables": {
-        "regular": {
-          "value": "{font-weight.regular}",
-          "type": "fontWeights"
-        },
-        "bold": {
-          "value": "{font-weight.bold}",
-          "type": "fontWeights"
-        }
-      },
-      "actions": {
-        "value": "{font-weight.semibold}",
-        "type": "fontWeights"
-      },
-      "status": {
-        "value": "{font-weight.bold}",
-        "type": "fontWeights"
-      },
-      "feedback": {
-        "value": "{font-weight.bold}",
-        "type": "fontWeights"
       }
     },
     "font-size": {
@@ -1580,25 +1486,25 @@
         "type": "fontSizes"
       },
       "typography": {
-        "headline": {
-          "xs": {
-            "value": "{semantic.font-size.5}",
-            "type": "fontSizes"
-          },
+        "display": {
           "sm": {
-            "value": "{semantic.font-size.6}",
+            "value": "{semantic.font-size.4}",
             "type": "fontSizes"
           },
           "md": {
+            "value": "{semantic.font-size.5}",
+            "type": "fontSizes"
+          },
+          "lg": {
+            "value": "{semantic.font-size.6}",
+            "type": "fontSizes"
+          },
+          "xl": {
             "value": "{semantic.font-size.7}",
             "type": "fontSizes"
           }
         },
-        "heading": {
-          "xs": {
-            "value": "{semantic.font-size.0}",
-            "type": "fontSizes"
-          },
+        "headline": {
           "sm": {
             "value": "{semantic.font-size.1}",
             "type": "fontSizes"
@@ -1610,17 +1516,9 @@
           "lg": {
             "value": "{semantic.font-size.3}",
             "type": "fontSizes"
-          },
-          "xl": {
-            "value": "{semantic.font-size.4}",
-            "type": "fontSizes"
           }
         },
-        "body": {
-          "xs": {
-            "value": "{semantic.font-size.neg2}",
-            "type": "fontSizes"
-          },
+        "title": {
           "sm": {
             "value": "{semantic.font-size.neg1}",
             "type": "fontSizes"
@@ -1632,56 +1530,56 @@
           "lg": {
             "value": "{semantic.font-size.1}",
             "type": "fontSizes"
+          }
+        },
+        "label": {
+          "sm": {
+            "value": "{semantic.font-size.neg2}",
+            "type": "fontSizes"
           },
-          "xl": {
-            "value": "{semantic.font-size.2}",
+          "md": {
+            "value": "{semantic.font-size.neg1}",
+            "type": "fontSizes"
+          },
+          "lg": {
+            "value": "{semantic.font-size.0}",
             "type": "fontSizes"
           }
-        }
-      },
-      "actions": {
-        "sm": {
-          "value": "{semantic.font-size.neg1}",
-          "type": "fontSizes"
         },
-        "md": {
-          "value": "{semantic.font-size.0}",
-          "type": "fontSizes"
-        },
-        "lg": {
-          "value": "{semantic.font-size.1}",
-          "type": "fontSizes"
-        }
-      },
-      "inputs": {
-        "value": "{semantic.font-size.0}",
-        "type": "fontSizes"
-      },
-      "tables": {
-        "value": "{semantic.font-size.0}",
-        "type": "fontSizes"
-      },
-      "status": {
-        "value": "{semantic.font-size.neg1}",
-        "type": "fontSizes"
-      },
-      "feedback": {
-        "sm": {
-          "value": "{semantic.font-size.0}",
-          "type": "fontSizes"
-        },
-        "md": {
-          "value": "{semantic.font-size.1}",
-          "type": "fontSizes"
+        "body": {
+          "sm": {
+            "value": "{semantic.font-size.neg2}",
+            "type": "fontSizes"
+          },
+          "md": {
+            "value": "{semantic.font-size.neg1}",
+            "type": "fontSizes"
+          },
+          "lg": {
+            "value": "{semantic.font-size.0}",
+            "type": "fontSizes"
+          },
+          "xl": {
+            "value": "{semantic.font-size.1}",
+            "type": "fontSizes"
+          }
         }
       }
     },
     "font-nRatio": {
-      "headlines": {
+      "display": {
         "value": "{font-nRatio.redHatDisplay}",
         "type": "other"
       },
-      "headings": {
+      "headline": {
+        "value": "{font-nRatio.redHatText}",
+        "type": "other"
+      },
+      "title": {
+        "value": "{font-nRatio.redHatText}",
+        "type": "other"
+      },
+      "label": {
         "value": "{font-nRatio.redHatText}",
         "type": "other"
       },
@@ -1692,41 +1590,25 @@
       "mono": {
         "value": "{font-nRatio.redHatMono}",
         "type": "other"
-      },
-      "inputs": {
-        "value": "{font-nRatio.proximaNova}",
-        "type": "other"
-      },
-      "tables": {
-        "value": "{font-nRatio.proximaNova}",
-        "type": "other"
-      },
-      "actions": {
-        "value": "{font-nRatio.redHatText}",
-        "type": "other"
-      },
-      "status": {
-        "value": "{font-nRatio.proximaNova}",
-        "type": "other"
       }
     },
     "line-height": {
       "typography": {
-        "headlines": {
+        "display": {
           "sm": {
-            "value": "{line-height.1000}",
-            "type": "lineHeights"
-          },
-          "xs": {
             "value": "{line-height.850}",
             "type": "lineHeights"
           },
           "md": {
+            "value": "{line-height.1000}",
+            "type": "lineHeights"
+          },
+          "lg": {
             "value": "{line-height.1250}",
             "type": "lineHeights"
           }
         },
-        "headings": {
+        "headline": {
           "sm": {
             "value": "{line-height.300}",
             "type": "lineHeights"
@@ -1745,80 +1627,56 @@
           }
         },
         "body": {
-          "200": {
+          "sm": {
             "value": "{line-height.200}",
             "type": "lineHeights"
           },
-          "300": {
+          "md": {
             "value": "{line-height.300}",
             "type": "lineHeights"
           },
-          "350": {
+          "lg": {
             "value": "{line-height.350}",
             "type": "lineHeights"
           }
-        }
-      },
-      "inputs": {
-        "200": {
-          "value": "{line-height.200}",
-          "type": "lineHeights"
         },
-        "250": {
-          "value": "{line-height.250}",
-          "type": "lineHeights"
+        "title": {
+          "sm": {
+            "value": "{line-height.200}",
+            "type": "lineHeights"
+          },
+          "md": {
+            "value": "{line-height.300}",
+            "type": "lineHeights"
+          },
+          "lg": {
+            "value": "{line-height.350}",
+            "type": "lineHeights"
+          }
         },
-        "300": {
-          "value": "{line-height.300}",
-          "type": "lineHeights"
-        },
-        "350": {
-          "value": "{line-height.350}",
-          "type": "lineHeights"
-        }
-      },
-      "feedback": {
-        "200": {
-          "value": "{line-height.200}",
-          "type": "lineHeights"
-        },
-        "300": {
-          "value": "{line-height.300}",
-          "type": "lineHeights"
-        },
-        "350": {
-          "value": "{line-height.350}",
-          "type": "lineHeights"
-        }
-      },
-      "actions": {
-        "200": {
-          "value": "{line-height.200}",
-          "type": "lineHeights"
-        },
-        "250": {
-          "value": "{line-height.250}",
-          "type": "lineHeights"
-        },
-        "300": {
-          "value": "{line-height.300}",
-          "type": "lineHeights"
-        }
-      },
-      "status": {
-        "200": {
-          "value": "{line-height.200}",
-          "type": "lineHeights"
+        "label": {
+          "sm": {
+            "value": "{line-height.200}",
+            "type": "lineHeights"
+          },
+          "md": {
+            "value": "{line-height.300}",
+            "type": "lineHeights"
+          },
+          "lg": {
+            "value": "{line-height.350}",
+            "type": "lineHeights"
+          }
         }
       }
     },
     "text-case": {
       "typography": {
-        "headlines": {
+        "display": {
           "value": "{text-case.none}",
           "type": "textCase"
         },
-        "headings": {
+        "headline": {
           "value": "{text-case.none}",
           "type": "textCase"
         },
@@ -1826,64 +1684,36 @@
           "value": "{text-case.none}",
           "type": "textCase"
         }
-      },
-      "actions": {
-        "value": "{text-case.capitalize}",
-        "type": "textCase"
-      },
-      "status": {
-        "value": "{text-case.capitalize}",
-        "type": "textCase"
-      },
-      "feedback": {
-        "value": "{text-case.none}",
-        "type": "textCase"
       }
     },
     "letter-spacing": {
       "typography": {
         "body": {
-          "none": {
+          "0": {
             "value": "{letter-spacing.0}",
             "type": "letterSpacing"
           },
-          "sm": {
+          "50": {
             "value": "{letter-spacing.5}",
             "type": "letterSpacing"
           },
-          "md": {
+          "150": {
             "value": "{letter-spacing.12}",
             "type": "letterSpacing"
           }
         },
-        "headings": {
-          "none": {
+        "display": {
+          "0": {
             "value": "{letter-spacing.0}",
             "type": "letterSpacing"
           }
         },
-        "subheadings": {
-          "none": {
-            "value": "{letter-spacing.0}",
-            "type": "letterSpacing"
-          }
-        },
-        "headlines": {
-          "none": {
+        "headline": {
+          "0": {
             "value": "{letter-spacing.0}",
             "type": "letterSpacing"
           }
         }
-      },
-      "actions": {
-        "none": {
-          "value": "{letter-spacing.0}",
-          "type": "letterSpacing"
-        }
-      },
-      "status": {
-        "value": "{letter-spacing.0}",
-        "type": "letterSpacing"
       }
     },
     "paragraph-spacing": {
