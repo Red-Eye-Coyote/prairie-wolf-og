@@ -27,8 +27,7 @@
       "comp/select": "enabled",
       "comp/tag": "enabled",
       "comp/text": "enabled",
-      "portfolio/light": "enabled",
-      "core/opacity": "disabled"
+      "portfolio/light": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -60,8 +59,7 @@
       "comp/select": "enabled",
       "comp/tag": "enabled",
       "comp/text": "enabled",
-      "rec/light": "enabled",
-      "core/opacity": "disabled"
+      "rec/light": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -93,8 +91,7 @@
       "comp/select": "enabled",
       "comp/tag": "enabled",
       "comp/text": "enabled",
-      "rec/dark": "enabled",
-      "core/opacity": "disabled"
+      "rec/dark": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -128,8 +125,7 @@
       "comp/text": "enabled",
       "portfolio/dark": "enabled",
       "semantic/light": "source",
-      "portfolio/light": "enabled",
-      "core/opacity": "disabled"
+      "portfolio/light": "enabled"
     },
     "$figmaStyleReferences": {}
   },

@@ -110,7 +110,7 @@
       "value": "{semantic.border-width.actions}",
       "type": "borderWidth"
     },
-    "state-layer": {
+    "state-layers": {
       "sm": {
         "value": {
           "height": "{btn.sizing.height.sm}",
@@ -134,6 +134,34 @@
           "paddingLeft": "{btn.spacing.padding-left.lg}"
         },
         "type": "composition"
+      },
+      "on-primary": {
+        "enabled": {
+          "value": "{semantic.state-layers.on-primary.enabled}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.state-layers.on-primary.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{semantic.state-layers.on-primary.active}",
+          "type": "color"
+        }
+      },
+      "on-secondary": {
+        "enabled": {
+          "value": "{semantic.state-layers.on-secondary.enabled}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{semantic.state-layers.on-secondary.hover}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{semantic.state-layers.on-secondary.active}",
+          "type": "color"
+        }
       }
     },
     "text-content": {
