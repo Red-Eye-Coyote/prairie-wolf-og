@@ -27,38 +27,8 @@
       "comp/select": "enabled",
       "comp/tag": "enabled",
       "comp/text": "enabled",
-      "portfolio/light": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "c2affdee3d0fd46edb6d9cfc9da1bd49a7016818",
-    "name": "Headless - Light",
-    "selectedTokenSets": {
-      "core/color": "source",
-      "core/border": "source",
-      "core/dimension": "source",
-      "core/font-family": "source",
-      "core/font-nRatio": "source",
-      "core/font-scale": "source",
-      "core/font-size": "source",
-      "core/font-weight": "source",
-      "core/letter-spacing": "source",
-      "core/line-height": "source",
-      "core/paragraph-spacing": "source",
-      "core/text-case": "source",
-      "comp/button": "enabled",
-      "comp/alert": "enabled",
-      "comp/badge": "enabled",
-      "comp/icon-button": "enabled",
-      "comp/input": "enabled",
-      "comp/link": "enabled",
-      "comp/multiselect": "enabled",
-      "comp/option": "enabled",
-      "comp/select": "enabled",
-      "comp/tag": "enabled",
-      "comp/text": "enabled",
-      "semantic/light": "source"
+      "portfolio/light": "enabled",
+      "core/opacity": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -90,7 +60,8 @@
       "comp/select": "enabled",
       "comp/tag": "enabled",
       "comp/text": "enabled",
-      "rec/light": "enabled"
+      "rec/light": "enabled",
+      "core/opacity": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -122,39 +93,8 @@
       "comp/select": "enabled",
       "comp/tag": "enabled",
       "comp/text": "enabled",
-      "rec/dark": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "977320efd0231ca624f037768416b933e8589247",
-    "name": "Headless - Dark",
-    "selectedTokenSets": {
-      "core/color": "source",
-      "core/border": "source",
-      "core/dimension": "source",
-      "core/font-family": "source",
-      "core/font-nRatio": "source",
-      "core/font-scale": "source",
-      "core/font-size": "source",
-      "core/font-weight": "source",
-      "core/letter-spacing": "source",
-      "core/line-height": "source",
-      "core/paragraph-spacing": "source",
-      "core/text-case": "source",
-      "semantic/dark": "source",
-      "comp/button": "enabled",
-      "comp/alert": "enabled",
-      "comp/badge": "enabled",
-      "comp/icon-button": "enabled",
-      "comp/input": "enabled",
-      "comp/link": "enabled",
-      "comp/multiselect": "enabled",
-      "comp/option": "enabled",
-      "comp/select": "enabled",
-      "comp/tag": "enabled",
-      "comp/text": "enabled",
-      "semantic/light": "source"
+      "rec/dark": "enabled",
+      "core/opacity": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -188,7 +128,73 @@
       "comp/text": "enabled",
       "portfolio/dark": "enabled",
       "semantic/light": "source",
-      "portfolio/light": "enabled"
+      "portfolio/light": "enabled",
+      "core/opacity": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "c2affdee3d0fd46edb6d9cfc9da1bd49a7016818",
+    "name": "Headless - Light",
+    "selectedTokenSets": {
+      "core/color": "source",
+      "core/border": "source",
+      "core/dimension": "source",
+      "core/font-family": "source",
+      "core/font-nRatio": "source",
+      "core/font-scale": "source",
+      "core/font-size": "source",
+      "core/font-weight": "source",
+      "core/letter-spacing": "source",
+      "core/line-height": "source",
+      "core/paragraph-spacing": "source",
+      "core/text-case": "source",
+      "comp/button": "enabled",
+      "comp/alert": "enabled",
+      "comp/badge": "enabled",
+      "comp/icon-button": "enabled",
+      "comp/input": "enabled",
+      "comp/link": "enabled",
+      "comp/multiselect": "enabled",
+      "comp/option": "enabled",
+      "comp/select": "enabled",
+      "comp/tag": "enabled",
+      "comp/text": "enabled",
+      "semantic/light": "source",
+      "core/opacity": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "977320efd0231ca624f037768416b933e8589247",
+    "name": "Headless - Dark",
+    "selectedTokenSets": {
+      "core/color": "source",
+      "core/border": "source",
+      "core/dimension": "source",
+      "core/font-family": "source",
+      "core/font-nRatio": "source",
+      "core/font-scale": "source",
+      "core/font-size": "source",
+      "core/font-weight": "source",
+      "core/letter-spacing": "source",
+      "core/line-height": "source",
+      "core/paragraph-spacing": "source",
+      "core/text-case": "source",
+      "semantic/dark": "source",
+      "comp/button": "enabled",
+      "comp/alert": "enabled",
+      "comp/badge": "enabled",
+      "comp/icon-button": "enabled",
+      "comp/input": "enabled",
+      "comp/link": "enabled",
+      "comp/multiselect": "enabled",
+      "comp/option": "enabled",
+      "comp/select": "enabled",
+      "comp/tag": "enabled",
+      "comp/text": "enabled",
+      "semantic/light": "source",
+      "core/opacity": "source"
     },
     "$figmaStyleReferences": {}
   }

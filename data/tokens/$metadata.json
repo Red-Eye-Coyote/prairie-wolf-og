@@ -10,6 +10,7 @@
     "core/font-weight",
     "core/letter-spacing",
     "core/line-height",
+    "core/opacity",
     "core/paragraph-spacing",
     "core/text-case",
     "semantic/light",

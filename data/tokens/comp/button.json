@@ -110,41 +110,31 @@
       "value": "{semantic.border-width.actions}",
       "type": "borderWidth"
     },
-    "sm": {
-      "value": {
-        "height": "{btn.sizing.height.sm}",
-        "paddingTop": "{btn.spacing.padding-top}",
-        "paddingRight": "{btn.spacing.padding-right.sm}",
-        "paddingBottom": "{btn.spacing.padding-bottom}",
-        "paddingLeft": "{btn.spacing.padding-left.sm}",
-        "borderRadius": "{btn.border-radius}",
-        "borderWidth": "none"
+    "state-layer": {
+      "sm": {
+        "value": {
+          "height": "{btn.sizing.height.sm}",
+          "paddingRight": "{btn.spacing.padding-right.sm}",
+          "paddingLeft": "{btn.spacing.padding-left.sm}"
+        },
+        "type": "composition"
       },
-      "type": "composition"
-    },
-    "md": {
-      "value": {
-        "height": "{btn.sizing.height.md}",
-        "paddingTop": "{btn.spacing.padding-top}",
-        "paddingRight": "{btn.spacing.padding-right.md}",
-        "paddingBottom": "{btn.spacing.padding-bottom}",
-        "paddingLeft": "{btn.spacing.padding-left.md}",
-        "borderRadius": "{btn.border-radius}",
-        "borderWidth": "none"
+      "md": {
+        "value": {
+          "height": "{btn.sizing.height.md}",
+          "paddingRight": "{btn.spacing.padding-right.md}",
+          "paddingLeft": "{btn.spacing.padding-left.md}"
+        },
+        "type": "composition"
       },
-      "type": "composition"
-    },
-    "lg": {
-      "value": {
-        "height": "{btn.sizing.height.lg}",
-        "paddingTop": "{btn.spacing.padding-top}",
-        "paddingRight": "{btn.spacing.padding-right.lg}",
-        "paddingBottom": "{btn.spacing.padding-bottom}",
-        "paddingLeft": "{btn.spacing.padding-left.lg}",
-        "borderRadius": "{btn.border-radius}",
-        "borderWidth": "none"
-      },
-      "type": "composition"
+      "lg": {
+        "value": {
+          "height": "{btn.sizing.height.lg}",
+          "paddingRight": "{btn.spacing.padding-right.lg}",
+          "paddingLeft": "{btn.spacing.padding-left.lg}"
+        },
+        "type": "composition"
+      }
     },
     "text-content": {
       "sm": {
