@@ -37,11 +37,15 @@
           "type": "dimension"
         },
         "md": {
-          "value": "{dimension.px.250}",
+          "value": "{dimension.px.300}",
           "type": "dimension"
         },
         "lg": {
-          "value": "{dimension.px.300}",
+          "value": "{dimension.px.500}",
+          "type": "dimension"
+        },
+        "xl": {
+          "value": "{dimension.px.600}",
           "type": "dimension"
         }
       }

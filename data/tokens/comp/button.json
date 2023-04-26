@@ -31,20 +31,6 @@
       }
     },
     "sizing": {
-      "icon-size": {
-        "sm": {
-          "value": "{semantic.font-size.actions.sm}",
-          "type": "sizing"
-        },
-        "md": {
-          "value": "{semantic.font-size.actions.md}",
-          "type": "sizing"
-        },
-        "lg": {
-          "value": "{semantic.font-size.actions.lg}",
-          "type": "sizing"
-        }
-      },
       "height": {
         "sm": {
           "value": "{semantic.sizing.component.sm}",
@@ -56,6 +42,20 @@
         },
         "lg": {
           "value": "{semantic.sizing.component.lg}",
+          "type": "dimension"
+        }
+      },
+      "icon-size": {
+        "sm": {
+          "value": "{semantic.sizing.icons.xs}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{semantic.sizing.icons.sm}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{semantic.sizing.icons.md}",
           "type": "dimension"
         }
       }
