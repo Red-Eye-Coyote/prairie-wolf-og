@@ -12,6 +12,10 @@
       "value": "16",
       "type": "paragraphSpacing"
     },
+    "250": {
+      "value": "20",
+      "type": "paragraphSpacing"
+    },
     "300": {
       "value": "24",
       "type": "paragraphSpacing"

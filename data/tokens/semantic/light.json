@@ -1637,44 +1637,6 @@
           }
         }
       }
-    },
-    "paragraph-spacing": {
-      "typography": {
-        "body": {
-          "0": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "200": {
-            "value": "{paragraphSpacing.200}",
-            "type": "paragraphSpacing"
-          },
-          "300": {
-            "value": "{paragraphSpacing.300}",
-            "type": "paragraphSpacing"
-          }
-        },
-        "display": {
-          "0": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          }
-        },
-        "headline": {
-          "0": {
-            "value": "{paragraphSpacing.0}",
-            "type": "paragraphSpacing"
-          },
-          "300": {
-            "value": "{paragraphSpacing.300}",
-            "type": "paragraphSpacing"
-          },
-          "400": {
-            "value": "{paragraphSpacing.400}",
-            "type": "paragraphSpacing"
-          }
-        }
-      }
     }
   }
 }
