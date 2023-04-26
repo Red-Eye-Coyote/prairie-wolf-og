@@ -1,55 +1,53 @@
 {
   "semantic": {
     "color": {
-      "color": {
-        "primary": {
-          "value": "{color.classicBlue.800}",
-          "type": "color"
-        },
-        "on-primary": {
-          "value": "{color.classicBlue.200}",
-          "type": "color"
-        },
-        "primary-container": {
-          "value": "{color.classicBlue.300}",
-          "type": "color"
-        },
-        "on-primary-container": {
-          "value": "{color.classicBlue.900}",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "{color.ultraViolet.800}",
-          "type": "color"
-        },
-        "on-secondary": {
-          "value": "{color.ultraViolet.200}",
-          "type": "color"
-        },
-        "secondary-container": {
-          "value": "{color.ultraViolet.300}",
-          "type": "color"
-        },
-        "on-secondary-container": {
-          "value": "{color.ultraViolet.900}",
-          "type": "color"
-        },
-        "background": {
-          "value": "{color.ultimateGray.100}",
-          "type": "color"
-        },
-        "on-background": {
-          "value": "{color.ultimateGray.900}",
-          "type": "color"
-        },
-        "surface": {
-          "value": "{color.ultimateGray.100}",
-          "type": "color"
-        },
-        "on-surface": {
-          "value": "{color.ultimateGray.900}",
-          "type": "color"
-        }
+      "primary": {
+        "value": "{color.classicBlue.800}",
+        "type": "color"
+      },
+      "on-primary": {
+        "value": "{color.classicBlue.200}",
+        "type": "color"
+      },
+      "primary-container": {
+        "value": "{color.classicBlue.300}",
+        "type": "color"
+      },
+      "on-primary-container": {
+        "value": "{color.classicBlue.900}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{color.ultraViolet.800}",
+        "type": "color"
+      },
+      "on-secondary": {
+        "value": "{color.ultraViolet.200}",
+        "type": "color"
+      },
+      "secondary-container": {
+        "value": "{color.ultraViolet.300}",
+        "type": "color"
+      },
+      "on-secondary-container": {
+        "value": "{color.ultraViolet.900}",
+        "type": "color"
+      },
+      "background": {
+        "value": "{color.ultimateGray.100}",
+        "type": "color"
+      },
+      "on-background": {
+        "value": "{color.ultimateGray.900}",
+        "type": "color"
+      },
+      "surface": {
+        "value": "{color.ultimateGray.100}",
+        "type": "color"
+      },
+      "on-surface": {
+        "value": "{color.ultimateGray.900}",
+        "type": "color"
       }
     }
   }
