@@ -7,7 +7,7 @@
           "fontWeight": "{semantic.font-weight.typography.display.regular}",
           "lineHeight": "{line-height.600}",
           "fontSize": "{semantic.font-size.typography.display.sm} * {semantic.font-nRatio.display}",
-          "textCase": "{semantic.text-case.typography.display}",
+          "textCase": "",
           "letterSpacing": "{semantic.letter-spacing.typography.display.0}",
           "paragraphSpacing": "",
           "textDecoration": "none"
@@ -20,7 +20,7 @@
           "fontWeight": "{semantic.font-weight.typography.display.regular}",
           "lineHeight": "{line-height.750}",
           "fontSize": "{semantic.font-size.typography.display.md} * {semantic.font-nRatio.display}",
-          "textCase": "{semantic.text-case.typography.display}",
+          "textCase": "",
           "letterSpacing": "{semantic.letter-spacing.typography.display.0}",
           "paragraphSpacing": "",
           "textDecoration": "none"
@@ -33,7 +33,7 @@
           "fontWeight": "{semantic.font-weight.typography.display.black}",
           "lineHeight": "{line-height.900}",
           "fontSize": "{semantic.font-size.typography.display.lg} * {semantic.font-nRatio.display}",
-          "textCase": "{semantic.text-case.typography.display}",
+          "textCase": "",
           "letterSpacing": "{semantic.letter-spacing.typography.display.0}",
           "paragraphSpacing": "",
           "textDecoration": "none"
@@ -46,7 +46,7 @@
           "fontWeight": "{semantic.font-weight.typography.display.black}",
           "lineHeight": "{line-height.1100}",
           "fontSize": "{semantic.font-size.typography.display.xl} * {semantic.font-nRatio.display}",
-          "textCase": "{semantic.text-case.typography.display}",
+          "textCase": "",
           "letterSpacing": "{semantic.letter-spacing.typography.display.0}",
           "paragraphSpacing": "",
           "textDecoration": "none"
@@ -267,7 +267,7 @@
           "letterSpacing": "{semantic.letter-spacing.typography.body.0}",
           "paragraphSpacing": "{paragraphSpacing.200}",
           "textDecoration": "none",
-          "textCase": "{semantic.text-case.typography.body}"
+          "textCase": ""
         },
         "type": "typography"
       },
@@ -280,7 +280,7 @@
           "letterSpacing": "{semantic.letter-spacing.typography.body.0}",
           "paragraphSpacing": "{paragraphSpacing.250}",
           "textDecoration": "none",
-          "textCase": "{semantic.text-case.typography.body}"
+          "textCase": ""
         },
         "type": "typography"
       },
@@ -293,7 +293,7 @@
           "letterSpacing": "{semantic.letter-spacing.typography.body.0}",
           "paragraphSpacing": "{paragraphSpacing.300}",
           "textDecoration": "none",
-          "textCase": "{semantic.text-case.typography.body}"
+          "textCase": ""
         },
         "type": "typography"
       }
@@ -310,7 +310,7 @@
           "letterSpacing": "{semantic.letter-spacing.typography.headline.0}",
           "paragraphSpacing": "",
           "textDecoration": "none",
-          "textCase": "{semantic.text-case.typography.headline}"
+          "textCase": ""
         },
         "type": "typography"
       },
@@ -323,7 +323,7 @@
           "letterSpacing": "{semantic.letter-spacing.typography.headline.0}",
           "paragraphSpacing": "",
           "textDecoration": "none",
-          "textCase": "{semantic.text-case.typography.headline}"
+          "textCase": ""
         },
         "type": "typography"
       },
@@ -336,7 +336,7 @@
           "letterSpacing": "{semantic.letter-spacing.typography.headline.0}",
           "paragraphSpacing": "",
           "textDecoration": "none",
-          "textCase": "{semantic.text-case.typography.headline}"
+          "textCase": ""
         },
         "type": "typography"
       }

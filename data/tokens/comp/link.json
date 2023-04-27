@@ -2,101 +2,96 @@
   "link": {
     "text-content": {
       "sm": {
-        "value": {
-          "fontFamily": "{semantic.font-family.actions}",
-          "fontWeight": "{semantic.font-weight.actions}",
-          "lineHeight": "{semantic.line-height.actions.200}",
-          "fontSize": "{semantic.font-size.actions.sm} * {semantic.font-nRatio.actions}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
-          "textDecoration": "none",
-          "textCase": "none"
-        },
+        "value": "{body.text-content.sm}",
         "type": "typography"
       },
       "md": {
-        "value": {
-          "fontFamily": "{semantic.font-family.actions}",
-          "fontWeight": "{semantic.font-weight.actions}",
-          "lineHeight": "{semantic.line-height.actions.300}",
-          "fontSize": "{semantic.font-size.actions.md} * {semantic.font-nRatio.actions}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
-          "textDecoration": "none",
-          "textCase": "none"
-        },
+        "value": "{body.text-content.md}",
         "type": "typography"
       },
       "lg": {
-        "value": {
-          "fontFamily": "{semantic.font-family.actions}",
-          "fontWeight": "{semantic.font-weight.actions}",
-          "lineHeight": "{semantic.line-height.actions.300}",
-          "fontSize": "{semantic.font-size.actions.lg} * {semantic.font-nRatio.actions}",
-          "letterSpacing": "0%",
-          "paragraphSpacing": "0",
-          "textDecoration": "none",
-          "textCase": "none"
-        },
+        "value": "{body.text-content.lg}",
         "type": "typography"
       }
     },
     "primary": {
-      "default": {
-        "text-color": {
-          "value": "{semantic.fg.accent}",
-          "type": "color"
-        },
-        "fg-color": {
-          "value": "{semantic.fg.accent}",
-          "type": "color"
-        }
+      "text-color": {
+        "value": "{semantic.color.primary}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{semantic.color.primary}",
+        "type": "color"
       }
     },
     "neutral": {
       "default": {
         "text-color": {
-          "value": "{semantic.color.typography.coreText}",
+          "value": "{semantic.color.on-background}",
           "type": "color"
         },
-        "fg-color": {
-          "value": "{semantic.neutral.muted}",
-          "type": "color"
+        "border-color": {
+          "value": "{semantic.color.on-background}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": ".8",
+                "space": "lch"
+              }
+            }
+          }
         }
       },
       "hover": {
-        "fg-color": {
-          "value": "{semantic.fg.default}",
+        "border-color": {
+          "value": "{semantic.color.on-background}",
           "type": "color"
         }
+      }
+    },
+    "border-width": {
+      "sm": {
+        "value": "{border-width.1}",
+        "type": "borderWidth"
       }
     }
   },
   "navlink": {
     "default": {
       "text-color": {
-        "value": "{semantic.fg.subtle}",
-        "type": "color"
+        "value": "{semantic.color.on-surface}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": ".8",
+              "space": "lch"
+            }
+          }
+        }
       },
-      "fg-color": {
-        "value": "{semantic.fg.accent}",
+      "border-color": {
+        "value": "{semantic.color.primary}",
         "type": "color"
       }
     },
     "active": {
       "text-color": {
-        "value": "{semantic.fg.default}",
+        "value": "{semantic.color.on-surface}",
         "type": "color"
       }
     },
     "text-content": {
-      "default": {
+      "active": {
         "md": {
           "value": {
-            "fontFamily": "{semantic.font-family.actions}",
-            "fontWeight": "{semantic.font-weight.actions}",
-            "lineHeight": "{semantic.line-height.actions.300}",
-            "fontSize": "{semantic.font-size.actions.md} * {semantic.font-nRatio.actions}",
+            "fontFamily": "{semantic.font-family.typography.label}",
+            "fontWeight": "{font-weight.bold}",
+            "lineHeight": "{line-height.350}",
+            "fontSize": "{semantic.font-size.1} * {semantic.font-nRatio.label}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
@@ -105,13 +100,13 @@
           "type": "typography"
         }
       },
-      "active": {
+      "default": {
         "md": {
           "value": {
-            "fontFamily": "{semantic.font-family.actions}",
-            "fontWeight": "{font-weight.bold}",
-            "lineHeight": "{semantic.line-height.actions.300}",
-            "fontSize": "{semantic.font-size.actions.md} * {semantic.font-nRatio.actions}",
+            "fontFamily": "{semantic.font-family.typography.label}",
+            "fontWeight": "{semantic.font-weight.typography.label.semibold}",
+            "lineHeight": "{line-height.350}",
+            "fontSize": "{semantic.font-size.1} * {semantic.font-nRatio.label}",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
