@@ -22,7 +22,7 @@
         "type": "dimension"
       },
       "itemSpacing": {
-        "value": "{semantic.spacing.inputs.itemSpacing.sm}",
+        "value": "{semantic.spacing.inputs.md}",
         "type": "dimension"
       }
     },

@@ -37,19 +37,19 @@
     "spacing": {
       "itemSpacing": {
         "xxs": {
-          "value": "{semantic.spacing.inputs.itemSpacing.xxs}",
+          "value": "{semantic.spacing.inputs.xs}",
           "type": "dimension"
         },
         "xs": {
-          "value": "{semantic.spacing.inputs.itemSpacing.xs}",
+          "value": "{semantic.spacing.inputs.sm}",
           "type": "dimension"
         },
         "sm": {
-          "value": "{semantic.spacing.inputs.itemSpacing.sm}",
+          "value": "{semantic.spacing.inputs.md}",
           "type": "dimension"
         },
         "md": {
-          "value": "{semantic.spacing.inputs.itemSpacing.md}",
+          "value": "{semantic.spacing.inputs.lg}",
           "type": "dimension"
         }
       },
@@ -341,16 +341,16 @@
     },
     "border-width": {
       "default": {
-        "value": "{semantic.border-width.inputs.sm}",
+        "value": "{semantic.border-width.inputs.xs}",
         "type": "borderWidth"
       },
       "active": {
-        "value": "{semantic.border-width.inputs.md}",
+        "value": "{semantic.border-width.inputs.sm}",
         "type": "borderWidth"
       }
     },
     "border-radius": {
-      "value": "{semantic.border-radius.inputs}",
+      "value": "{semantic.border-radius.inputs.sm}",
       "type": "borderRadius"
     }
   }

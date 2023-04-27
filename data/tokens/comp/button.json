@@ -85,12 +85,12 @@
           "type": "dimension"
         },
         "lg": {
-          "value": "{semantic.spacing.actions.padding-right.md}",
+          "value": "{semantic.spacing.actions.lg}",
           "type": "dimension"
         }
       },
       "padding-top": {
-        "value": "{semantic.spacing.actions.padding-top}",
+        "value": "{semantic.spacing.actions.md}",
         "type": "dimension"
       },
       "padding-bottom": {
@@ -98,16 +98,16 @@
         "type": "dimension"
       },
       "itemSpacing": {
-        "value": "{semantic.spacing.actions.itemSpacing.xs}",
+        "value": "{semantic.spacing.actions.sm}",
         "type": "dimension"
       }
     },
     "border-radius": {
-      "value": "{semantic.border-radius.actions}",
+      "value": "{semantic.border-radius.actions.sm}",
       "type": "borderRadius"
     },
     "border-width": {
-      "value": "{semantic.border-width.actions}",
+      "value": "{semantic.border-width.actions.sm}",
       "type": "borderWidth"
     },
     "state-layers": {

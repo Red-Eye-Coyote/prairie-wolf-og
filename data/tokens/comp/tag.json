@@ -12,11 +12,11 @@
     },
     "spacing": {
       "padding-top": {
-        "value": "{semantic.spacing.status.padding-top}",
+        "value": "{semantic.spacing.status.sm}",
         "type": "dimension"
       },
       "padding-right": {
-        "value": "{semantic.spacing.status.padding-right}",
+        "value": "{semantic.spacing.status.md}",
         "type": "dimension"
       },
       "padding-bottom": {
@@ -37,7 +37,7 @@
       "type": "borderRadius"
     },
     "border-width": {
-      "value": "{semantic.border-width.status}",
+      "value": "{semantic.border-width.status.sm}",
       "type": "borderWidth"
     },
     "default": {

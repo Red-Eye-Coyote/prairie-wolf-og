@@ -38,7 +38,7 @@
         "type": "dimension"
       },
       "itemSpacing": {
-        "value": "{semantic.spacing.inputs.itemSpacing.xs}",
+        "value": "{semantic.spacing.inputs.sm}",
         "type": "dimension"
       }
     },
@@ -189,16 +189,16 @@
       }
     },
     "border-radius": {
-      "value": "{semantic.border-radius.inputs}",
+      "value": "{semantic.border-radius.inputs.sm}",
       "type": "borderRadius"
     },
     "border-width": {
       "default": {
-        "value": "{semantic.border-width.inputs.sm}",
+        "value": "{semantic.border-width.inputs.xs}",
         "type": "borderWidth"
       },
       "active": {
-        "value": "{semantic.border-width.inputs.md}",
+        "value": "{semantic.border-width.inputs.sm}",
         "type": "borderWidth"
       }
     },
