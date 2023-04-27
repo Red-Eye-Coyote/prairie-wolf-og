@@ -540,7 +540,7 @@
     },
     "state-layers": {
       "on-primary": {
-        "enabled": {
+        "opacity-0": {
           "value": "{color.neutral.black}",
           "type": "color",
           "$extensions": {
@@ -553,7 +553,7 @@
             }
           }
         },
-        "hover": {
+        "opacity-10": {
           "value": "{color.neutral.black}",
           "type": "color",
           "$extensions": {
@@ -566,7 +566,7 @@
             }
           }
         },
-        "active": {
+        "opacity-20": {
           "value": "{color.neutral.black}",
           "type": "color",
           "$extensions": {
@@ -581,20 +581,22 @@
         }
       },
       "on-surface": {
-        "value": "{color.neutral.black}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "{opacity.10}",
-              "space": "lch"
+        "opacity-10": {
+          "value": "{color.neutral.black}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{opacity.10}",
+                "space": "lch"
+              }
             }
           }
         }
       },
       "on-secondary": {
-        "enabled": {
+        "opacity-0": {
           "value": "{color.neutral.black}",
           "type": "color",
           "$extensions": {
@@ -607,7 +609,7 @@
             }
           }
         },
-        "hover": {
+        "opacity-10": {
           "value": "{color.neutral.black}",
           "type": "color",
           "$extensions": {
@@ -620,7 +622,7 @@
             }
           }
         },
-        "active": {
+        "opacity-20": {
           "value": "{color.neutral.black}",
           "type": "color",
           "$extensions": {
