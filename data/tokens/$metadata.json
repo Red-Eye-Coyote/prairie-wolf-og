@@ -16,7 +16,6 @@
     "semantic/light",
     "semantic/dark",
     "comp/button",
-    "comp/alert",
     "comp/badge",
     "comp/icon-button",
     "comp/input",
