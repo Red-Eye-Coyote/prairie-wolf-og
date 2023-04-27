@@ -30,78 +30,6 @@
         }
       }
     },
-    "sizing": {
-      "height": {
-        "sm": {
-          "value": "{semantic.sizing.component.sm}",
-          "type": "dimension"
-        },
-        "md": {
-          "value": "{semantic.sizing.component.md}",
-          "type": "dimension"
-        },
-        "lg": {
-          "value": "{semantic.sizing.component.lg}",
-          "type": "dimension"
-        }
-      },
-      "icon-size": {
-        "sm": {
-          "value": "{semantic.sizing.icons.xs}",
-          "type": "dimension"
-        },
-        "md": {
-          "value": "{semantic.sizing.icons.sm}",
-          "type": "dimension"
-        },
-        "lg": {
-          "value": "{semantic.sizing.icons.md}",
-          "type": "dimension"
-        }
-      }
-    },
-    "spacing": {
-      "padding-left": {
-        "sm": {
-          "value": "{semantic.spacing.actions.padding-left.sm}",
-          "type": "dimension"
-        },
-        "md": {
-          "value": "{semantic.spacing.actions.padding-left.sm}",
-          "type": "dimension"
-        },
-        "lg": {
-          "value": "{semantic.spacing.actions.padding-left.md}",
-          "type": "dimension"
-        }
-      },
-      "padding-right": {
-        "sm": {
-          "value": "{semantic.spacing.actions.padding-right.sm}",
-          "type": "dimension"
-        },
-        "md": {
-          "value": "{semantic.spacing.actions.padding-right.sm}",
-          "type": "dimension"
-        },
-        "lg": {
-          "value": "{semantic.spacing.actions.lg}",
-          "type": "dimension"
-        }
-      },
-      "padding-top": {
-        "value": "{semantic.spacing.actions.md}",
-        "type": "dimension"
-      },
-      "padding-bottom": {
-        "value": "{semantic.spacing.actions.padding-bottom}",
-        "type": "dimension"
-      },
-      "itemSpacing": {
-        "value": "{semantic.spacing.actions.sm}",
-        "type": "dimension"
-      }
-    },
     "border-radius": {
       "value": "{semantic.border-radius.actions.sm}",
       "type": "borderRadius"
@@ -113,25 +41,28 @@
     "state-layers": {
       "sm": {
         "value": {
-          "height": "{btn.sizing.height.sm}",
-          "paddingRight": "{btn.spacing.padding-right.sm}",
-          "paddingLeft": "{btn.spacing.padding-left.sm}"
+          "height": "{semantic.sizing.component.sm}",
+          "paddingRight": "{semantic.spacing.actions.md}",
+          "paddingLeft": "{semantic.spacing.actions.md}",
+          "itemSpacing": "{semantic.spacing.actions.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "height": "{btn.sizing.height.md}",
-          "paddingRight": "{btn.spacing.padding-right.md}",
-          "paddingLeft": "{btn.spacing.padding-left.md}"
+          "height": "{semantic.sizing.component.md}",
+          "paddingRight": "{semantic.spacing.actions.md}",
+          "paddingLeft": "{semantic.spacing.actions.md}",
+          "itemSpacing": "{semantic.spacing.actions.sm}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "height": "{btn.sizing.height.lg}",
-          "paddingRight": "{btn.spacing.padding-right.lg}",
-          "paddingLeft": "{btn.spacing.padding-left.lg}"
+          "height": "{semantic.sizing.component.lg}",
+          "paddingRight": "{semantic.spacing.actions.lg}",
+          "paddingLeft": "{semantic.spacing.actions.lg}",
+          "itemSpacing": "{semantic.spacing.actions.sm}"
         },
         "type": "composition"
       },
@@ -176,6 +107,22 @@
       "lg": {
         "value": "{label.text-content.lg}",
         "type": "typography"
+      }
+    },
+    "sizing": {
+      "icon-size": {
+        "sm": {
+          "value": "{semantic.sizing.icons.xs}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{semantic.sizing.icons.sm}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{semantic.sizing.icons.md}",
+          "type": "dimension"
+        }
       }
     }
   }
