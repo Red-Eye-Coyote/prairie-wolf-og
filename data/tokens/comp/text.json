@@ -81,21 +81,9 @@
         "paddingBottom": "{semantic.spacing.typography.padding-bottom.sm}"
       },
       "type": "composition"
-    },
-    "default": {
-      "text-color": {
-        "value": "{semantic.color.typography.prominentText}",
-        "type": "color"
-      }
     }
   },
   "label": {
-    "default": {
-      "text-color": {
-        "value": "{semantic.color.typography.coreText}",
-        "type": "color"
-      }
-    },
     "text-content": {
       "sm": {
         "value": {
@@ -160,12 +148,6 @@
     }
   },
   "title": {
-    "default": {
-      "text-color": {
-        "value": "{semantic.color.typography.coreText}",
-        "type": "color"
-      }
-    },
     "text-content": {
       "sm": {
         "value": {
@@ -230,12 +212,6 @@
     }
   },
   "body": {
-    "default": {
-      "text-color": {
-        "value": "{semantic.color.typography.coreText}",
-        "type": "color"
-      }
-    },
     "sm": {
       "value": {
         "paddingTop": "{semantic.spacing.typography.padding-top.xs}",
@@ -339,18 +315,6 @@
           "textCase": ""
         },
         "type": "typography"
-      }
-    },
-    "default": {
-      "text-color": {
-        "value": "{semantic.color.typography.coreText}",
-        "type": "color"
-      }
-    },
-    "deemphasized": {
-      "text-color": {
-        "value": "{semantic.color.typography.deemphasizedText}",
-        "type": "color"
       }
     },
     "sm": {
