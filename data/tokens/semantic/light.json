@@ -580,6 +580,19 @@
           }
         }
       },
+      "on-surface": {
+        "value": "{color.neutral.black}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "{opacity.10}",
+              "space": "lch"
+            }
+          }
+        }
+      },
       "on-secondary": {
         "enabled": {
           "value": "{color.neutral.black}",
