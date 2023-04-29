@@ -204,6 +204,10 @@
       "on-surface": {
         "value": "{color.ultimateGray.100}",
         "type": "color"
+      },
+      "outline": {
+        "value": "{color.ultimateGray.800}",
+        "type": "color"
       }
     },
     "border-radius": {

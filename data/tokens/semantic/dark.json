@@ -48,6 +48,10 @@
       "on-surface": {
         "value": "{color.ultimateGray.900}",
         "type": "color"
+      },
+      "outline": {
+        "value": "{color.ultimateGray.500}",
+        "type": "color"
       }
     }
   }
