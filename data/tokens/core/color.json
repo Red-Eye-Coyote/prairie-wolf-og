@@ -1,5 +1,22 @@
 {
   "color": {
+    "key": {
+      "classicBlue": {
+        "value": "#0f4c81",
+        "type": "color",
+        "description": "Based on Pantone Classic Blue"
+      },
+      "ultraViolet": {
+        "value": "#645394",
+        "type": "color",
+        "description": "Based on Pantone Ultra Violet"
+      },
+      "ultimateGray": {
+        "value": "#939597",
+        "type": "color",
+        "description": "Based on Pantone Ultimate Gray"
+      }
+    },
     "classicBlue": {
       "100": {
         "value": "#001c37",
