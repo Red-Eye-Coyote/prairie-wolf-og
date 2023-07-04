@@ -16,11 +16,8 @@
       "core/line-height": "enabled",
       "core/opacity": "enabled",
       "core/paragraph-spacing": "enabled",
-      "core/text-case": "enabled",
-      "theme/light": "disabled",
-      "theme/dark": "disabled"
+      "core/text-case": "enabled"
     },
-    "group": "Core",
     "$figmaCollectionId": "VariableCollectionId:503:3422",
     "$figmaModeId": "503:18",
     "$figmaVariableReferences": {
@@ -130,7 +127,8 @@
       "border-width.2": "733c44b5f8ff1181356762f67a557b69cf188385",
       "border-width.3": "12dd857481a6135341a0f89bf5d75e361d12d0be",
       "border-width.4": "2b98d00bf87bdf5681520c88ca782ad5df72c1fa"
-    }
+    },
+    "group": "Core"
   },
   {
     "id": "dd71946221f27be97421eb40ab8139782cbd4ac4",
@@ -150,8 +148,7 @@
       "core/opacity": "enabled",
       "core/paragraph-spacing": "enabled",
       "core/text-case": "enabled",
-      "theme/light": "enabled",
-      "theme/dark": "disabled"
+      "theme/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:504:3498",
     "$figmaModeId": "504:20",
@@ -346,7 +343,6 @@
       "core/opacity": "enabled",
       "core/paragraph-spacing": "enabled",
       "core/text-case": "enabled",
-      "theme/light": "disabled",
       "theme/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:504:3498",
@@ -492,10 +488,8 @@
       "core/opacity": "enabled",
       "core/paragraph-spacing": "enabled",
       "core/text-case": "enabled",
-      "theme/light": "disabled",
-      "theme/dark": "disabled"
+      "brand/Portfolio": "enabled"
     },
-    "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:510:273",
     "$figmaModeId": "511:0",
     "$figmaVariableReferences": {
@@ -618,7 +612,8 @@
       "border-width.2": "f3c48bd2da24cf14bb0a5b0a665ffba2c07d5d99",
       "border-width.3": "f3cb9aaa957a9ad8ad75c90171702e03e69291dd",
       "border-width.4": "f675245ee88a95c5442859697f51bd2ad3ac3cca"
-    }
+    },
+    "group": "Brand"
   },
   {
     "id": "e2e4285590367fa5e8d6fe699a72379d8cd44d16",
@@ -638,10 +633,8 @@
       "core/opacity": "enabled",
       "core/paragraph-spacing": "enabled",
       "core/text-case": "enabled",
-      "theme/light": "disabled",
-      "theme/dark": "disabled"
+      "brand/RedEyeCoyote": "enabled"
     },
-    "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:510:273",
     "$figmaModeId": "511:1",
     "$figmaVariableReferences": {
@@ -764,6 +757,7 @@
       "border-width.2": "f3c48bd2da24cf14bb0a5b0a665ffba2c07d5d99",
       "border-width.3": "f3cb9aaa957a9ad8ad75c90171702e03e69291dd",
       "border-width.4": "f675245ee88a95c5442859697f51bd2ad3ac3cca"
-    }
+    },
+    "group": "Brand"
   }
 ]
