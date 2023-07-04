@@ -16,7 +16,9 @@
       "core/line-height": "enabled",
       "core/opacity": "enabled",
       "core/paragraph-spacing": "enabled",
-      "core/text-case": "enabled"
+      "core/text-case": "enabled",
+      "theme/light": "disabled",
+      "theme/dark": "disabled"
     },
     "group": "Core",
     "$figmaCollectionId": "VariableCollectionId:503:3422",
@@ -148,7 +150,8 @@
       "core/opacity": "enabled",
       "core/paragraph-spacing": "enabled",
       "core/text-case": "enabled",
-      "light": "enabled"
+      "theme/light": "enabled",
+      "theme/dark": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:504:3498",
     "$figmaModeId": "504:20",
@@ -343,7 +346,8 @@
       "core/opacity": "enabled",
       "core/paragraph-spacing": "enabled",
       "core/text-case": "enabled",
-      "dark": "enabled"
+      "theme/light": "disabled",
+      "theme/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:504:3498",
     "$figmaModeId": "504:21",
@@ -487,7 +491,9 @@
       "core/line-height": "enabled",
       "core/opacity": "enabled",
       "core/paragraph-spacing": "enabled",
-      "core/text-case": "enabled"
+      "core/text-case": "enabled",
+      "theme/light": "disabled",
+      "theme/dark": "disabled"
     },
     "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:510:273",
@@ -631,7 +637,9 @@
       "core/line-height": "enabled",
       "core/opacity": "enabled",
       "core/paragraph-spacing": "enabled",
-      "core/text-case": "enabled"
+      "core/text-case": "enabled",
+      "theme/light": "disabled",
+      "theme/dark": "disabled"
     },
     "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:510:273",

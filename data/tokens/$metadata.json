@@ -22,12 +22,10 @@
     "comp/select",
     "comp/tag",
     "comp/text",
-    "rec/dark",
-    "rec/light",
-    "portfolio/light",
-    "portfolio/dark",
-    "system_utils",
-    "light",
-    "dark"
+    "theme/light",
+    "theme/dark",
+    "brand/Portfolio",
+    "brand/RedEyeCoyote",
+    "system_utils"
   ]
 }
