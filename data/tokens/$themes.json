@@ -148,9 +148,8 @@
       "core/opacity": "enabled",
       "core/paragraph-spacing": "enabled",
       "core/text-case": "enabled",
-      "semantic/light": "enabled"
+      "light": "enabled"
     },
-    "group": "Theme",
     "$figmaCollectionId": "VariableCollectionId:504:3498",
     "$figmaModeId": "504:20",
     "$figmaVariableReferences": {
@@ -323,7 +322,8 @@
       "border-width.2": "adc4f7c2b90a70cd30f247ff94502431486fc05e",
       "border-width.3": "a1eedd7931aa8cd4c823e3c65521c07a518b3a9a",
       "border-width.4": "af357dc71fff7180e05393d21378b20d1459b96d"
-    }
+    },
+    "group": "Theme"
   },
   {
     "id": "ba6f1afcddeecaf93cf7e4c74859f8638499a075",
@@ -343,9 +343,8 @@
       "core/opacity": "enabled",
       "core/paragraph-spacing": "enabled",
       "core/text-case": "enabled",
-      "semantic/dark": "enabled"
+      "dark": "enabled"
     },
-    "group": "Theme",
     "$figmaCollectionId": "VariableCollectionId:504:3498",
     "$figmaModeId": "504:21",
     "$figmaVariableReferences": {
@@ -468,7 +467,8 @@
       "border-width.2": "adc4f7c2b90a70cd30f247ff94502431486fc05e",
       "border-width.3": "a1eedd7931aa8cd4c823e3c65521c07a518b3a9a",
       "border-width.4": "af357dc71fff7180e05393d21378b20d1459b96d"
-    }
+    },
+    "group": "Theme"
   },
   {
     "id": "d05b010c64af34dd593eda5db39764b1130c1077",
@@ -487,8 +487,7 @@
       "core/line-height": "enabled",
       "core/opacity": "enabled",
       "core/paragraph-spacing": "enabled",
-      "core/text-case": "enabled",
-      "semantic/dark": "enabled"
+      "core/text-case": "enabled"
     },
     "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:510:273",
@@ -632,8 +631,7 @@
       "core/line-height": "enabled",
       "core/opacity": "enabled",
       "core/paragraph-spacing": "enabled",
-      "core/text-case": "enabled",
-      "semantic/dark": "enabled"
+      "core/text-case": "enabled"
     },
     "group": "Brand",
     "$figmaCollectionId": "VariableCollectionId:510:273",

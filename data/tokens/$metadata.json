@@ -13,8 +13,6 @@
     "core/opacity",
     "core/paragraph-spacing",
     "core/text-case",
-    "semantic/light",
-    "semantic/dark",
     "comp/button",
     "comp/badge",
     "comp/icon-button",
@@ -28,6 +26,8 @@
     "rec/light",
     "portfolio/light",
     "portfolio/dark",
-    "system_utils"
+    "system_utils",
+    "light",
+    "dark"
   ]
 }
