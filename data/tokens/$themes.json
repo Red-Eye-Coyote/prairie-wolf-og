@@ -186,5 +186,26 @@
       "semantic/light": "source"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "3830ff45a9e1427197b2b09e6bb6f7743693a7e6",
+    "name": "Default",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/color": "enabled",
+      "core/border": "enabled",
+      "core/dimension": "enabled",
+      "core/font-family": "enabled",
+      "core/font-nRatio": "enabled",
+      "core/font-scale": "enabled",
+      "core/font-size": "enabled",
+      "core/font-weight": "enabled",
+      "core/letter-spacing": "enabled",
+      "core/line-height": "enabled",
+      "core/opacity": "enabled",
+      "core/paragraph-spacing": "enabled",
+      "core/text-case": "enabled"
+    },
+    "group": "Core"
   }
 ]
