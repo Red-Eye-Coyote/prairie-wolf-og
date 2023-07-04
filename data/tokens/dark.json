@@ -1,0 +1,56 @@
+{
+  "sys": {
+    "primary": {
+      "value": "{color.ref.primary.800}",
+      "type": "color"
+    },
+    "on-primary": {
+      "value": "{color.ref.primary.200}",
+      "type": "color"
+    },
+    "primary-container": {
+      "value": "{color.ref.primary.300}",
+      "type": "color"
+    },
+    "on-primary-container": {
+      "value": "{color.ref.primary.900}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{color.ref.secondary.800}",
+      "type": "color"
+    },
+    "on-secondary": {
+      "value": "{color.ref.secondary.200}",
+      "type": "color"
+    },
+    "secondary-container": {
+      "value": "{color.ref.secondary.300}",
+      "type": "color"
+    },
+    "on-secondary-container": {
+      "value": "{color.ref.secondary.900}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{color.ref.neutral.100}",
+      "type": "color"
+    },
+    "on-background": {
+      "value": "{color.ref.neutral.900}",
+      "type": "color"
+    },
+    "surface": {
+      "value": "{color.ref.neutral.100}",
+      "type": "color"
+    },
+    "on-surface": {
+      "value": "{color.ref.neutral.900}",
+      "type": "color"
+    },
+    "outline": {
+      "value": "{color.ref.neutral.500}",
+      "type": "color"
+    }
+  }
+}
