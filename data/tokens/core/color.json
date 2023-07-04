@@ -1,5 +1,13 @@
 {
   "color": {
+    "black": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "white": {
+      "value": "#ffffff",
+      "type": "color"
+    },
     "key": {
       "classicBlue": {
         "value": "#0f4c81",
@@ -17,106 +25,144 @@
         "description": "Based on Pantone Ultimate Gray"
       }
     },
-    "classicBlue": {
-      "100": {
-        "value": "#001c37",
-        "type": "color"
+    "ref": {
+      "primary": {
+        "100": {
+          "value": "#001c37",
+          "type": "color"
+        },
+        "200": {
+          "value": "#00325a",
+          "type": "color"
+        },
+        "300": {
+          "value": "#00487f",
+          "type": "color"
+        },
+        "400": {
+          "value": "#0d61a4",
+          "type": "color"
+        },
+        "500": {
+          "value": "#367abf",
+          "type": "color"
+        },
+        "600": {
+          "value": "#5494db",
+          "type": "color"
+        },
+        "700": {
+          "value": "#71aff7",
+          "type": "color"
+        },
+        "800": {
+          "value": "#a0c9ff",
+          "type": "color"
+        },
+        "900": {
+          "value": "#d2e4ff",
+          "type": "color"
+        },
+        "950": {
+          "value": "#eaf1ff",
+          "type": "color"
+        },
+        "990": {
+          "value": "#fdfcff",
+          "type": "color"
+        }
       },
-      "200": {
-        "value": "#00325a",
-        "type": "color"
+      "secondary": {
+        "100": {
+          "value": "#22005d",
+          "type": "color"
+        },
+        "200": {
+          "value": "#371e73",
+          "type": "color"
+        },
+        "300": {
+          "value": "#4e378b",
+          "type": "color"
+        },
+        "400": {
+          "value": "#6650a4",
+          "type": "color"
+        },
+        "500": {
+          "value": "#8069bf",
+          "type": "color"
+        },
+        "600": {
+          "value": "#9a83db",
+          "type": "color"
+        },
+        "700": {
+          "value": "#b59df8",
+          "type": "color"
+        },
+        "800": {
+          "value": "#cfbdff",
+          "type": "color"
+        },
+        "900": {
+          "value": "#e8ddff",
+          "type": "color"
+        },
+        "950": {
+          "value": "#f5eeff",
+          "type": "color"
+        },
+        "990": {
+          "value": "#fdfcff",
+          "type": "color"
+        }
       },
-      "300": {
-        "value": "#00487f",
-        "type": "color"
-      },
-      "400": {
-        "value": "#0d61a4",
-        "type": "color"
-      },
-      "500": {
-        "value": "#367abf",
-        "type": "color"
-      },
-      "600": {
-        "value": "#5494db",
-        "type": "color"
-      },
-      "700": {
-        "value": "#71aff7",
-        "type": "color"
-      },
-      "800": {
-        "value": "#a0c9ff",
-        "type": "color"
-      },
-      "900": {
-        "value": "#d2e4ff",
-        "type": "color"
-      },
-      "950": {
-        "value": "#eaf1ff",
-        "type": "color"
-      },
-      "990": {
-        "value": "#fdfcff",
-        "type": "color"
-      },
-      "base": {
-        "value": "#0f4c81",
-        "type": "color",
-        "description": "Based on Pantone Classic Blue"
-      }
-    },
-    "ultraViolet": {
-      "100": {
-        "value": "#22005d",
-        "type": "color"
-      },
-      "200": {
-        "value": "#371e73",
-        "type": "color"
-      },
-      "300": {
-        "value": "#4e378b",
-        "type": "color"
-      },
-      "400": {
-        "value": "#6650a4",
-        "type": "color"
-      },
-      "500": {
-        "value": "#8069bf",
-        "type": "color"
-      },
-      "600": {
-        "value": "#9a83db",
-        "type": "color"
-      },
-      "700": {
-        "value": "#b59df8",
-        "type": "color"
-      },
-      "800": {
-        "value": "#cfbdff",
-        "type": "color"
-      },
-      "900": {
-        "value": "#e8ddff",
-        "type": "color"
-      },
-      "950": {
-        "value": "#f5eeff",
-        "type": "color"
-      },
-      "990": {
-        "value": "#fdfcff",
-        "type": "color"
-      },
-      "base": {
-        "value": "#645394",
-        "type": "color",
-        "description": "Based on Pantone Ultra Violet"
+      "neutral": {
+        "100": {
+          "value": "#191c1e",
+          "type": "color"
+        },
+        "200": {
+          "value": "#2e3133",
+          "type": "color"
+        },
+        "300": {
+          "value": "#444749",
+          "type": "color"
+        },
+        "400": {
+          "value": "#5c5f61",
+          "type": "color"
+        },
+        "500": {
+          "value": "#757779",
+          "type": "color"
+        },
+        "600": {
+          "value": "#8f9193",
+          "type": "color"
+        },
+        "700": {
+          "value": "#a9abad",
+          "type": "color"
+        },
+        "800": {
+          "value": "#c5c7c9",
+          "type": "color"
+        },
+        "900": {
+          "value": "#e1e2e5",
+          "type": "color"
+        },
+        "950": {
+          "value": "#f0f1f3",
+          "type": "color"
+        },
+        "990": {
+          "value": "#fdfcff",
+          "type": "color"
+        }
       }
     },
     "illuminating": {
@@ -168,57 +214,6 @@
         "value": "#f5df4d",
         "type": "color",
         "description": "Based on Pantone Illuminating"
-      }
-    },
-    "ultimateGray": {
-      "100": {
-        "value": "#191c1e",
-        "type": "color"
-      },
-      "200": {
-        "value": "#2e3133",
-        "type": "color"
-      },
-      "300": {
-        "value": "#444749",
-        "type": "color"
-      },
-      "400": {
-        "value": "#5c5f61",
-        "type": "color"
-      },
-      "500": {
-        "value": "#757779",
-        "type": "color"
-      },
-      "600": {
-        "value": "#8f9193",
-        "type": "color"
-      },
-      "700": {
-        "value": "#a9abad",
-        "type": "color"
-      },
-      "800": {
-        "value": "#c5c7c9",
-        "type": "color"
-      },
-      "900": {
-        "value": "#e1e2e5",
-        "type": "color"
-      },
-      "950": {
-        "value": "#f0f1f3",
-        "type": "color"
-      },
-      "990": {
-        "value": "#fdfcff",
-        "type": "color"
-      },
-      "base": {
-        "value": "#939597",
-        "type": "color",
-        "description": "Based on Pantone Ultimate Gray"
       }
     },
     "red": {
@@ -318,16 +313,6 @@
       },
       "base": {
         "value": "#05AFF2",
-        "type": "color"
-      }
-    },
-    "neutral": {
-      "black": {
-        "value": "#000000",
-        "type": "color"
-      },
-      "white": {
-        "value": "#ffffff",
         "type": "color"
       }
     }
