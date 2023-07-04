@@ -1,0 +1,108 @@
+{
+  "color": {
+    "key": {
+      "red": {
+        "value": "#F20505",
+        "type": "color"
+      },
+      "deepSkyBlue": {
+        "value": "#05AFF2",
+        "type": "color"
+      }
+    },
+    "ref": {
+      "primary": {
+        "100": {
+          "value": "#410000",
+          "type": "color"
+        },
+        "200": {
+          "value": "#690000",
+          "type": "color"
+        },
+        "300": {
+          "value": "#930001",
+          "type": "color"
+        },
+        "400": {
+          "value": "#c00001",
+          "type": "color"
+        },
+        "500": {
+          "value": "#ef0003",
+          "type": "color"
+        },
+        "600": {
+          "value": "#ff5541",
+          "type": "color"
+        },
+        "700": {
+          "value": "#ff8a79",
+          "type": "color"
+        },
+        "800": {
+          "value": "#ffb4a8",
+          "type": "color"
+        },
+        "900": {
+          "value": "#ffdad4",
+          "type": "color"
+        },
+        "950": {
+          "value": "#ffedea",
+          "type": "color"
+        },
+        "990": {
+          "value": "#fffbff",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "100": {
+          "value": "#001e2e",
+          "type": "color"
+        },
+        "200": {
+          "value": "#00344c",
+          "type": "color"
+        },
+        "300": {
+          "value": "#004c6c",
+          "type": "color"
+        },
+        "400": {
+          "value": "#00658e",
+          "type": "color"
+        },
+        "500": {
+          "value": "#007fb1",
+          "type": "color"
+        },
+        "600": {
+          "value": "#009ad6",
+          "type": "color"
+        },
+        "700": {
+          "value": "#21b6fa",
+          "type": "color"
+        },
+        "800": {
+          "value": "#84cfff",
+          "type": "color"
+        },
+        "900": {
+          "value": "#c7e7ff",
+          "type": "color"
+        },
+        "950": {
+          "value": "#e4f3ff",
+          "type": "color"
+        },
+        "990": {
+          "value": "#fffbff",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
