@@ -95,6 +95,47 @@
         }
       }
     },
+    "primary": {
+      "opacity-0": {
+        "value": "{color.ref.primary.400}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "opacity-10": {
+        "value": "{color.ref.primary.400}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "{opacity.10}",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "opacity-20": {
+        "value": "{color.ref.primary.400}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "{opacity.20}",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    },
     "on-surface": {
       "opacity-10": {
         "value": "{color.black}",
